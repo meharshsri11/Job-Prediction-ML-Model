@@ -1,0 +1,776 @@
+Student_ID,Name,Branch,CGPA,Certifications,Aptitude_Score,Project_Tech,Soft_Skills_Rating,Favorite_Language,Preferred_Work_Mode,Experience,Job_Role
+STU001,Harsh Verma,AI DS,7.34,Cyber Sec,75.0,Cyber Sec,5.0,Python,Onsite,1.9,Data Engineer
+STU002,Manav Reddy,IT,5.79,,79.0,App Dev,5.0,Python,Hybrid,2.7,ML Engineer
+STU003,Harsh Mehta,Civil,8.42,,80.0,Web Dev,5.0,R,Remote,2.0,
+STU004,Mehul Singh,EEE,8.75,Python,81.0,AI,,Python,Onsite,1.6,Data Analyst
+STU005,Rohit Verma,,7.26,AWS,44.0,Cloud,7.0,C++,Remote,1.6,System Admin
+STU006,Aditya Nair,AI DS,6.38,AWS,33.0,AI,6.0,R,Remote,1.0,System Admin
+STU007,Ananya Mehta,Civil,8.5,ML,81.0,Web Dev,8.0,R,Hybrid,0.4,Cloud Engineer
+STU008,Krish Reddy,IT,6.52,Cyber Sec,87.0,AI,7.0,Java,Remote,2.4,IoT Engineer
+STU009,Tanya Patel,AI DS,,Python,34.0,App Dev,5.0,JavaScript,Remote,2.5,System Admin
+STU010,,C.S.E,10.34,AWS,53.0,IoT,7.0,Java,Hybrid,2.8,ML Engineer
+STU011,Ananya Sharma,EEE,9.65,,,,6.0,C++,Onsite,2.3,System Admin
+STU012,Manav Mehta,C.S.E,7.03,,,AI,4.0,Python,Hybrid,,Software Tester
+STU013,Manav Kumar,AI DS,5.66,Cyber Sec,34.0,App Dev,7.0,Python,Hybrid,2.6,ML Engineer
+STU014,Divya Singh,EC,8.62,Python,41.0,Data Science,5.0,Go,Remote,0.7,Cybersecurity Analyst
+STU015,Kunal Nair,ME,10.36,Python,86.0,Cloud,3.0,JavaScript,Hybrid,1.2,Data Analyst
+STU016,Riya Kumar,EEE,10.1,Data Science,65.0,App Dev,6.0,C++,Onsite,0.6,Data Engineer
+STU017,Sanya Gupta,C.S.E,7.72,ML,55.0,App Dev,8.0,Java,Remote,0.6,Data Analyst
+STU018,Krish Reddy,AI DS,10.09,AWS,44.0,Cloud,5.0,Go,Hybrid,1.8,Cloud Engineer
+STU019,Riya Sharma,Civil,8.65,ML,,AI,6.0,JavaScript,Hybrid,1.5,System Admin
+STU020,Tanya Nair,IT,7.33,Data Science,35.0,Cyber Sec,9.0,Java,Hybrid,2.6,IoT Engineer
+STU021,Aditya Gupta,C.S.E,10.16,,,Cyber Sec,9.0,Python,Onsite,0.8,App Developer
+STU022,Krish Mehta,AI DS,6.73,AWS,97.0,AI,7.0,R,Hybrid,2.1,Data Engineer
+STU023,Manav Verma,EC,8.34,Cyber Sec,98.0,Cyber Sec,7.0,R,Onsite,1.6,IoT Engineer
+STU024,Isha Agarwal,AI DS,7.76,Data Science,54.0,Data Science,8.0,R,Hybrid,1.7,App Developer
+STU025,Ananya Nair,AI DS,9.0,Data Science,76.0,Cyber Sec,9.0,C++,Remote,1.5,Data Engineer
+STU026,Rohit Kumar,IT,,,59.0,IoT,,R,Onsite,1.6,Cybersecurity Analyst
+STU027,Divya Kumar,ME,5.24,Data Science,66.0,Cyber Sec,9.0,C,Onsite,2.7,Data Analyst
+STU028,Priya Agarwal,,7.59,AWS,47.0,IoT,4.0,R,Remote,0.2,Cybersecurity Analyst
+STU029,Aditya Das,,,Cyber Sec,49.0,Cloud,8.0,C++,Remote,2.0,Cloud Engineer
+STU030,Mehul Kumar,EC,,Data Science,42.0,Data Science,7.0,Python,Hybrid,0.6,App Developer
+STU031,Priya Nair,EEE,9.12,Java,79.0,AI,6.0,JavaScript,Remote,1.9,Cybersecurity Analyst
+STU032,Rohit Patel,IT,9.34,Java,31.0,Cloud,5.0,C++,Hybrid,1.9,
+STU033,Aditya Singh,,6.58,Python,84.0,Web Dev,6.0,Java,Onsite,2.1,Data Engineer
+STU034,Mehul Agarwal,IT,6.08,,92.0,Web Dev,6.0,Python,Hybrid,1.3,Software Tester
+,Kunal Sharma,IT,5.93,,69.0,AI,5.0,,Hybrid,1.7,System Admin
+STU036,Sanya Sharma,IT,10.36,Cyber Sec,72.0,Cloud,3.0,JavaScript,Hybrid,2.9,Software Tester
+STU037,Divya Reddy,ME,7.31,Python,76.0,IoT,8.0,Go,Onsite,1.8,Cloud Engineer
+STU038,Ananya Reddy,Civil,9.04,Python,65.0,,3.0,C,,0.4,Cloud Engineer
+STU039,Krish Agarwal,AI DS,9.13,None,66.0,App Dev,6.0,C,Remote,1.6,Software Tester
+STU040,Rohit Agarwal,EEE,5.23,Python,57.0,AI,7.0,,Remote,2.1,Web Devloper
+STU041,Rohit Patel,AI DS,9.36,ML,93.0,AI,6.0,JavaScript,Remote,2.4,
+STU042,Ananya Nair,EC,,,57.0,Data Science,6.0,R,Remote,1.6,Cloud Engineer
+STU043,Tanya Singh,EEE,7.85,,65.0,Cloud,3.0,,Remote,1.8,ML Engineer
+STU044,Krish Gupta,Civil,10.01,Data Science,87.0,App Dev,5.0,Python,Remote,0.4,ML Engineer
+STU045,Manav Das,EEE,7.2,Java,39.0,AI,7.0,Python,Remote,1.2,Software Tester
+STU046,Priya Kumar,Civil,5.58,Python,63.0,Data Science,9.0,R,Remote,2.4,Cloud Engineer
+STU047,Sneha Nair,Civil,10.13,Python,43.0,IoT,7.0,C,Remote,1.0,Data Engineer
+STU048,,EC,9.61,None,60.0,App Dev,5.0,Python,Remote,0.1,Web Devloper
+STU049,Sanya Verma,IT,6.6,,73.0,Web Dev,8.0,Python,Remote,0.0,Web Devloper
+STU050,Manav Verma,IT,6.69,Java,59.0,Cyber Sec,5.0,Go,Hybrid,1.1,System Admin
+STU051,Manav Singh,IT,9.91,Data Science,76.0,Cyber Sec,3.0,,Hybrid,0.4,Data Analyst
+STU052,Aarav Verma,EEE,9.26,Cyber Sec,31.0,App Dev,7.0,Java,Onsite,0.9,System Admin
+STU053,Harsh Chopra,EEE,6.95,,83.0,App Dev,9.0,C++,Remote,0.6,ML Engineer
+STU054,Sneha Kumar,C.S.E,8.54,None,79.0,Cloud,7.0,Go,Hybrid,,System Admin
+STU055,Ananya Agarwal,EC,9.0,Java,37.0,Web Dev,,Go,Onsite,2.1,
+STU056,,IT,8.25,Python,81.0,Cyber Sec,4.0,R,Onsite,2.1,App Developer
+,Aarav Verma,EEE,10.04,Data Science,56.0,Cyber Sec,8.0,JavaScript,Onsite,1.1,Data Analyst
+STU058,Sneha Sharma,IT,8.91,ML,74.0,Cyber Sec,6.0,C++,Remote,0.1,Web Devloper
+STU059,Sanya Reddy,IT,,None,58.0,Data Science,4.0,,Remote,2.7,Software Tester
+STU060,Tanya Das,,7.7,ML,53.0,Data Science,4.0,Go,Onsite,2.9,Data Engineer
+STU061,Tanya Kumar,ME,6.4,None,61.0,Cloud,8.0,C,Onsite,1.9,App Developer
+STU062,Sanya Reddy,Civil,8.41,Java,98.0,AI,3.0,JavaScript,Onsite,1.4,Cybersecurity Analyst
+STU063,,Civil,7.11,Python,,Web Dev,5.0,Go,Hybrid,2.0,IoT Engineer
+STU064,Priya Singh,EEE,6.0,Data Science,64.0,AI,5.0,JavaScript,Onsite,0.4,System Admin
+STU065,Sanya Reddy,ME,7.81,Java,,Cyber Sec,6.0,C,Onsite,2.9,
+STU066,Aarav Patel,EC,8.93,Cyber Sec,84.0,,7.0,JavaScript,Onsite,2.8,System Admin
+STU067,Sanya Verma,EC,6.77,,72.0,IoT,7.0,Java,Remote,0.3,IoT Engineer
+STU068,Rohit Singh,EC,7.2,ML,41.0,Cyber Sec,7.0,Python,Hybrid,,Software Tester
+STU069,Sanya Gupta,AI DS,7.55,Cyber Sec,88.0,Web Dev,4.0,Python,Onsite,0.7,IoT Engineer
+STU070,Kunal Singh,EC,5.46,,43.0,AI,8.0,R,Onsite,2.3,System Admin
+STU071,Aarav Verma,Civil,5.92,None,50.0,Data Science,8.0,Go,Onsite,2.2,Data Engineer
+STU072,Sanya Verma,AI DS,7.45,Cyber Sec,70.0,Cloud,7.0,Python,Remote,1.7,Software Tester
+STU073,Harsh Mehta,IT,8.15,,84.0,AI,8.0,Python,Remote,0.6,Cybersecurity Analyst
+STU074,Riya Kumar,EC,8.2,Data Science,70.0,Cyber Sec,9.0,R,Onsite,1.9,IoT Engineer
+STU075,Rohit Kumar,EEE,6.5,,35.0,Cyber Sec,9.0,C,Onsite,1.9,System Admin
+STU076,Sanya Singh,,9.73,Python,43.0,Data Science,7.0,JavaScript,Onsite,0.9,App Developer
+STU077,Manav Gupta,Civil,9.95,Java,45.0,App Dev,9.0,,Remote,0.8,Cybersecurity Analyst
+STU078,Isha Mehta,EEE,9.26,ML,98.0,Cloud,6.0,Java,Remote,1.0,IoT Engineer
+STU079,Kunal Verma,,9.65,ML,61.0,Data Science,5.0,R,Remote,1.3,Cloud Engineer
+STU080,Sanya Das,Civil,6.05,Java,55.0,Web Dev,4.0,Go,Hybrid,1.8,Web Devloper
+STU081,Divya Chopra,C.S.E,9.97,Python,82.0,Data Science,3.0,C++,Hybrid,1.2,Cybersecurity Analyst
+STU082,Divya Sharma,IT,10.0,,44.0,Cyber Sec,8.0,C,Onsite,2.8,Data Engineer
+STU083,Mehul Patel,ME,5.99,Data Science,82.0,Data Science,6.0,Go,Remote,0.1,Web Devloper
+STU084,Ananya Nair,AI DS,7.5,Java,75.0,AI,6.0,R,Remote,0.2,Software Tester
+STU085,Sneha Nair,C.S.E,7.11,None,99.0,Cloud,3.0,Java,Onsite,1.7,Cloud Engineer
+STU086,Kunal Patel,ME,9.51,None,83.0,Web Dev,,Python,Hybrid,0.3,System Admin
+STU087,Sanya Patel,IT,8.66,None,46.0,,8.0,C++,Remote,2.2,Software Tester
+STU088,Riya Nair,Civil,8.47,None,91.0,Cloud,4.0,C++,Hybrid,1.7,Software Tester
+STU089,Aarav Das,AI DS,5.93,,53.0,App Dev,4.0,C,Hybrid,2.7,Data Analyst
+STU090,Aarav Reddy,AI DS,8.41,Data Science,48.0,IoT,5.0,C++,Onsite,1.5,App Developer
+STU091,Aditya Sharma,Civil,7.87,,80.0,Cloud,3.0,Java,Remote,,Web Devloper
+,Aarav Agarwal,Civil,6.0,Python,60.0,Cyber Sec,4.0,R,Onsite,1.0,Web Devloper
+STU093,Harsh Verma,ME,7.85,Java,37.0,Web Dev,,C++,Remote,2.7,Web Devloper
+STU094,Sneha Verma,AI DS,5.84,AWS,44.0,Cyber Sec,3.0,C++,Remote,,System Admin
+STU095,Aditya Kumar,C.S.E,7.63,,46.0,Cyber Sec,7.0,Go,Onsite,1.6,Software Tester
+STU096,Sneha Das,EEE,6.07,,79.0,Data Science,8.0,JavaScript,Remote,0.8,App Developer
+STU097,Sanya Reddy,C.S.E,7.84,Java,67.0,Cloud,9.0,Go,Onsite,1.8,ML Engineer
+STU098,Krish Agarwal,ME,8.37,Data Science,34.0,,5.0,Java,Remote,2.5,Data Engineer
+STU099,Kunal Sharma,AI DS,7.51,AWS,78.0,Web Dev,3.0,C++,Remote,1.5,ML Engineer
+STU100,Harsh Singh,C.S.E,8.25,AWS,93.0,Cloud,5.0,JavaScript,Remote,2.4,IoT Engineer
+STU101,Divya Gupta,AI DS,7.0,,43.0,Data Science,7.0,Go,Onsite,2.3,Cloud Engineer
+STU102,Manav Das,Civil,9.06,Python,43.0,Cyber Sec,,JavaScript,Hybrid,2.1,Software Tester
+STU103,Priya Gupta,C.S.E,8.91,Python,80.0,Data Science,5.0,C++,Hybrid,1.4,Data Engineer
+STU104,Tanya Sharma,Civil,5.19,AWS,79.0,Web Dev,8.0,Go,Remote,2.9,Web Devloper
+STU105,Divya Singh,ME,5.98,,53.0,Web Dev,3.0,C++,Onsite,1.7,Cloud Engineer
+,Riya Agarwal,ME,5.29,AWS,36.0,IoT,4.0,C++,Onsite,1.5,ML Engineer
+STU107,Tanya Verma,EC,6.4,Data Science,72.0,Data Science,7.0,Java,Hybrid,0.6,Web Devloper
+STU108,Kunal Patel,IT,9.35,Java,70.0,Cloud,5.0,C,Hybrid,1.4,IoT Engineer
+STU109,Ananya Patel,AI DS,7.44,AWS,49.0,Web Dev,6.0,R,Hybrid,1.7,System Admin
+STU110,Priya Singh,C.S.E,9.09,,99.0,IoT,3.0,C++,Hybrid,2.9,App Developer
+STU111,Divya Patel,AI DS,9.34,ML,,IoT,3.0,JavaScript,Hybrid,0.0,Software Tester
+STU112,Divya Mehta,ME,5.78,Java,55.0,Web Dev,3.0,R,Remote,2.1,Cybersecurity Analyst
+STU113,Aarav Singh,EEE,,None,92.0,Web Dev,5.0,R,Hybrid,2.9,Software Tester
+STU114,Rohit Mehta,EC,5.26,AWS,91.0,Data Science,6.0,Java,Hybrid,0.5,IoT Engineer
+STU115,Sneha Reddy,AI DS,9.03,AWS,65.0,Data Science,4.0,Python,Remote,0.7,Cloud Engineer
+STU116,Kunal Verma,ME,10.42,Cyber Sec,90.0,Web Dev,4.0,C++,Hybrid,0.8,System Admin
+STU117,Sneha Verma,EC,10.24,Data Science,69.0,Cloud,6.0,R,Hybrid,2.2,Software Tester
+STU118,Harsh Sharma,Civil,7.74 ,ML,87.0,Cyber Sec,9.0,C++,Onsite,0.9,Data Engineer
+,Riya Chopra,ME,7.87,None,45.0,Data Science,4.0,Go,,1.8,Data Engineer
+STU120,Tanya Kumar,AI DS,5.71,Java,79.0,Cloud,9.0,Go,Hybrid,0.4,System Admin
+STU121,Aarav Mehta,Civil,9.52,,91.0,Cloud,3.0,Go,Remote,0.9,Data Engineer
+STU122,Rohit Singh,EC,9.41,,,Data Science,5.0,Python,Hybrid,1.0,Cloud Engineer
+,Manav Reddy,IT,8.44,Data Science,98.0,,7.0,Java,Hybrid,,Cloud Engineer
+STU124,Tanya Sharma,IT,7.21,Python,47.0,Cloud,3.0,R,Remote,0.5,Data Analyst
+STU125,Ananya Sharma,EEE,7.67,ML,91.0,Cyber Sec,3.0,Python,Hybrid,2.4,Web Devloper
+STU126,Rohit Kumar,EEE,10.09,AWS,44.0,Data Science,4.0,C++,Onsite,0.4,Data Analyst
+STU127,Sneha Singh,EC,7.61,Python,82.0,Cloud,7.0,Python,Onsite,1.6,Cloud Engineer
+,Priya Mehta,C.S.E,7.39,ML,77.0,Web Dev,,Java,Onsite,,Cybersecurity Analyst
+STU129,Divya Nair,IT,7.14,Data Science,43.0,Cyber Sec,7.0,Java,Remote,1.4,App Developer
+STU130,Rohit Das,EEE,7.15,Java,45.0,App Dev,6.0,Python,Remote,0.8,IoT Engineer
+STU131,Rohit Singh,IT,8.76,AWS,95.0,IoT,5.0,Python,Hybrid,1.6,IoT Engineer
+,Aarav Das,EC,7.97,ML,33.0,IoT,9.0,,Hybrid,1.3,Software Tester
+STU133,,EEE,8.39,ML,97.0,IoT,4.0,Java,Hybrid,0.3,Data Engineer
+STU134,Mehul Sharma,C.S.E,9.79,ML,72.0,Data Science,5.0,Python,Onsite,1.4,Data Engineer
+STU135,Divya Sharma,Civil,9.24,Data Science,32.0,App Dev,7.0,R,Remote,0.9,System Admin
+STU136,Kunal Das,EEE,5.47,,85.0,Data Science,6.0,C++,Hybrid,2.5,
+STU137,Priya Agarwal,C.S.E,8.05,ML,55.0,IoT,,C,Hybrid,1.7,App Developer
+STU138,Sanya Mehta,ME,10.13,ML,79.0,Cyber Sec,5.0,JavaScript,Hybrid,1.3,ML Engineer
+STU139,Riya Verma,EEE,6.79,Python,67.0,App Dev,8.0,Java,Hybrid,2.9,App Developer
+,Divya Nair,C.S.E,9.89,Data Science,75.0,IoT,5.0,Go,Hybrid,0.6,Cloud Engineer
+STU141,Riya Kumar,IT,6.04,Data Science,70.0,App Dev,6.0,C,Onsite,0.8,Data Analyst
+STU142,Harsh Mehta,AI DS,8.07,Data Science,35.0,App Dev,3.0,C,,2.5,Cybersecurity Analyst
+STU143,Ananya Sharma,ME,7.14,ML,36.0,Cyber Sec,8.0,C++,Hybrid,0.3,ML Engineer
+STU144,Aditya Chopra,Civil,10.01,ML,30.0,Web Dev,6.0,Java,Hybrid,2.5,Data Analyst
+STU145,Manav Verma,C.S.E,9.18,Cyber Sec,93.0,Cloud,7.0,,Hybrid,1.4,Web Devloper
+STU146,Divya Agarwal,AI DS,7.71,,54.0,Cloud,5.0,R,Hybrid,1.8,
+STU147,Divya Verma,IT,6.78,Data Science,71.0,App Dev,8.0,Go,Hybrid,2.5,
+STU148,Priya Verma,EEE,5.21,AWS,46.0,Cyber Sec,5.0,R,Remote,2.1,Data Analyst
+STU149,Aarav Kumar,Civil,9.54,Java,33.0,Cloud,8.0,Python,Remote,2.8,ML Engineer
+STU150,Divya Mehta,IT,8.94,Data Science,72.0,Data Science,6.0,C,Onsite,1.8,ML Engineer
+STU151,Sneha Das,AI DS,9.49,Python,95.0,AI,7.0,Go,Remote,1.0,Software Tester
+STU152,Aditya Sharma,IT,6.28,ML,77.0,AI,4.0,R,Remote,1.3,Data Analyst
+STU153,Riya Nair,ME,8.3,AWS,53.0,Web Dev,4.0,Go,Hybrid,0.9,Software Tester
+,Tanya Das,EC,10.1,Python,75.0,Web Dev,4.0,Go,Remote,1.1,Data Analyst
+STU155,Isha Agarwal,AI DS,6.48,,74.0,AI,5.0,R,Hybrid,,Data Engineer
+STU156,Harsh Chopra,C.S.E,8.98,Python,49.0,Web Dev,,JavaScript,Hybrid,1.3,Cybersecurity Analyst
+STU157,Riya Kumar,,9.52,ML,90.0,IoT,4.0,Python,Remote,1.5,System Admin
+STU158,Ananya Gupta,EEE,10.37,ML,34.0,Web Dev,3.0,JavaScript,Onsite,1.9,App Developer
+STU159,Riya Singh,Civil,10.26,AWS,70.0,Web Dev,6.0,C++,Remote,2.7,Data Engineer
+STU160,Sneha Gupta,EEE,7.21,None,33.0,Cyber Sec,6.0,Go,Remote,1.7,Cloud Engineer
+STU161,Sanya Gupta,EEE,,AWS,51.0,Web Dev,6.0,C,Remote,2.5,Data Analyst
+STU162,Riya Kumar,Civil,9.91,Data Science,80.0,Cyber Sec,9.0,Python,Onsite,1.9,Cloud Engineer
+STU163,Divya Patel,Civil,8.06,Cyber Sec,53.0,Cyber Sec,3.0,JavaScript,Onsite,0.5,
+,Mehul Patel,C.S.E,8.1,,94.0,Cloud,3.0,Java,Onsite,2.2,Web Devloper
+STU165,Rohit Patel,IT,7.11,AWS,56.0,AI,4.0,Java,Hybrid,,System Admin
+STU166,Kunal Verma,EEE,9.36,Java,49.0,AI,3.0,Java,Onsite,0.7,IoT Engineer
+STU167,Kunal Kumar,C.S.E,10.22,Python,35.0,Data Science,9.0,C,Hybrid,0.1,Data Analyst
+STU168,Riya Das,EEE,5.4,Data Science,74.0,App Dev,8.0,Go,Remote,2.4,System Admin
+STU169,Sanya Nair,AI DS,7.97,Python,91.0,IoT,8.0,JavaScript,Remote,2.3,ML Engineer
+STU170,Isha Reddy,EEE,7.13,Cyber Sec,76.0,Cyber Sec,4.0,Python,Hybrid,1.9,Software Tester
+STU171,Kunal Gupta,AI DS,7.31,None,94.0,,7.0,R,Hybrid,2.4,System Admin
+STU172,Aditya Das,Civil,7.71,,73.0,App Dev,6.0,JavaScript,Remote,0.9,ML Engineer
+STU173,Kunal Mehta,IT,9.24,Java,97.0,App Dev,5.0,C,Hybrid,2.1,Web Devloper
+STU174,Priya Chopra,IT,8.36,ML,93.0,IoT,5.0,Python,Onsite,0.6,Cloud Engineer
+STU175,,EEE,7.38,Java,56.0,App Dev,5.0,,Hybrid,0.7,Cloud Engineer
+STU176,Divya Patel,IT,7.37 ,AWS,43.0,IoT,8.0,Java,Hybrid,2.3,
+,Sanya Patel,Civil,8.88,None,,Cloud,3.0,JavaScript,Hybrid,,Data Engineer
+STU178,,ME,5.89,ML,55.0,Data Science,4.0,Python,Hybrid,1.9,ML Engineer
+STU179,Ananya Singh,EEE,9.07,Cyber Sec,56.0,Cloud,3.0,C++,,1.7,Data Engineer
+STU180,Kunal Kumar,EEE,7.48,Python,73.0,Cloud,9.0,Java,Onsite,1.2,
+STU181,Tanya Singh,EEE,6.17,ML,,AI,8.0,Java,Remote,1.9,System Admin
+STU182,Krish Verma,Civil,10.21,None,95.0,Cyber Sec,8.0,Python,Onsite,3.0,Software Tester
+STU183,Mehul Mehta,ME,7.28,ML,,AI,,JavaScript,Hybrid,1.0,Software Tester
+STU184,Aarav Patel,C.S.E,6.62,AWS,31.0,Cloud,6.0,Java,Onsite,1.6,App Developer
+STU185,Aarav Reddy,EC,9.23,Cyber Sec,40.0,Cloud,4.0,R,Remote,2.4,Software Tester
+STU186,Krish Singh,IT,9.9,,39.0,AI,6.0,Python,Remote,1.3,Cybersecurity Analyst
+STU187,Riya Gupta,AI DS,7.25,,80.0,Cyber Sec,3.0,Go,Remote,2.8,Cybersecurity Analyst
+STU188,Mehul Singh,C.S.E,9.25,,52.0,Web Dev,4.0,Python,Hybrid,0.6,App Developer
+STU189,Sanya Kumar,C.S.E,8.82,Data Science,30.0,Web Dev,7.0,JavaScript,Onsite,1.5,Cloud Engineer
+,Harsh Verma,IT,8.56,,69.0,Web Dev,6.0,,Hybrid,2.1,ML Engineer
+STU191,Sneha Kumar,EC,6.46,Python,46.0,App Dev,6.0,Python,Hybrid,2.8,Web Devloper
+STU192,Divya Agarwal,EEE,8.24,ML,48.0,IoT,8.0,R,Onsite,1.9,Web Devloper
+STU193,Ananya Nair,AI DS,7.82,Data Science,61.0,Cyber Sec,7.0,Java,,2.0,Web Devloper
+STU194,Tanya Chopra,Civil,8.5,Python,32.0,Cyber Sec,5.0,Java,Remote,2.9,
+STU195,Sneha Chopra,,10.38,ML,,AI,4.0,Python,Onsite,1.8,IoT Engineer
+STU196,Aditya Sharma,IT,6.28,,66.0,IoT,6.0,C,Onsite,2.1,Software Tester
+STU197,Sneha Reddy,Civil,8.04,Cyber Sec,69.0,Cloud,9.0,C,Remote,0.1,Software Tester
+STU198,Rohit Mehta,AI DS,,Data Science,91.0,AI,4.0,C,Remote,1.3,System Admin
+STU199,Sanya Reddy,EEE,5.9,AWS,35.0,App Dev,3.0,C++,Remote,1.1,Data Analyst
+STU200,Aditya Singh,C.S.E,7.1,Java,75.0,Web Dev,9.0,Java,Remote,0.6,IoT Engineer
+STU201,Mehul Verma,C.S.E,10.39,ML,55.0,IoT,3.0,Java,Remote,1.1,IoT Engineer
+STU202,Rohit Kumar,EEE,8.95 ,,39.0,Data Science,9.0,JavaScript,Onsite,1.7,Web Devloper
+STU203,Ananya Sharma,ME,5.59,Python,58.0,Data Science,5.0,JavaScript,Hybrid,1.6,System Admin
+STU204,Divya Reddy,EC,6.21,,93.0,App Dev,7.0,Python,Onsite,1.3,Data Analyst
+STU205,Tanya Kumar,IT,9.8,Python,77.0,App Dev,4.0,C++,Hybrid,2.4,Cybersecurity Analyst
+STU206,Aditya Nair,EEE,5.67,Python,82.0,Cloud,4.0,R,Hybrid,1.7,Cybersecurity Analyst
+STU207,Kunal Chopra,Civil,7.44,,95.0,Data Science,4.0,C++,Onsite,0.6,Software Tester
+STU208,Sneha Agarwal,ME,6.29,Java,51.0,App Dev,9.0,,Hybrid,0.8,Web Devloper
+STU209,Sanya Singh,C.S.E,6.59,AWS,41.0,Web Dev,8.0,JavaScript,Hybrid,2.9,App Developer
+,Manav Kumar,EC,6.18,ML,71.0,,4.0,Java,Onsite,1.2,
+STU211,Isha Sharma,EEE,5.61,ML,74.0,App Dev,4.0,Python,Onsite,0.3,Software Tester
+STU212,Aarav Agarwal,,,Java,46.0,Web Dev,3.0,C++,Onsite,0.9,Cybersecurity Analyst
+STU213,Ananya Reddy,EC,7.68,,33.0,Cyber Sec,5.0,Go,,2.3,Data Analyst
+STU214,,EC,9.38,Java,85.0,IoT,6.0,Python,Onsite,2.4,Software Tester
+STU215,,AI DS,9.77,Java,70.0,Cloud,8.0,Go,Remote,2.5,App Developer
+STU216,Mehul Das,Civil,6.93,Java,76.0,AI,7.0,Python,Hybrid,2.6,ML Engineer
+STU217,Tanya Chopra,AI DS,9.14,AWS,36.0,IoT,5.0,,Onsite,1.0,Software Tester
+STU218,Isha Singh,IT,10.33,,62.0,App Dev,8.0,Java,Onsite,0.9,
+STU219,Manav Singh,EC,,Java,84.0,Cyber Sec,6.0,Python,Onsite,1.2,Data Engineer
+STU220,Kunal Nair,EEE,10.31,Data Science,56.0,Cyber Sec,8.0,R,Hybrid,2.2,Data Analyst
+STU221,Manav Kumar,AI DS,5.34,None,48.0,Web Dev,3.0,,Remote,1.5,Data Analyst
+STU222,Ananya Gupta,Civil,5.67,Data Science,69.0,App Dev,5.0,C,Remote,1.5,App Developer
+STU223,Sanya Singh,IT,6.45,Java,77.0,Cloud,9.0,C,Hybrid,1.5,Cybersecurity Analyst
+STU224,Ananya Gupta,EC,5.38,Data Science,39.0,,9.0,C,Onsite,0.4,Data Engineer
+STU225,Riya Mehta,EEE,5.66,ML,59.0,App Dev,6.0,R,Onsite,2.2,System Admin
+STU226,Sanya Mehta,ME,8.91,,77.0,Web Dev,4.0,C,Onsite,,Cybersecurity Analyst
+STU227,Divya Chopra,Civil,6.92,Cyber Sec,65.0,Web Dev,5.0,Java,Remote,1.4,Data Engineer
+STU228,Harsh Chopra,C.S.E,5.23,Python,87.0,AI,9.0,Go,Hybrid,0.8,Data Engineer
+STU229,Mehul Agarwal,Civil,10.29,None,,Web Dev,9.0,Python,Onsite,2.4,
+STU230,Sanya Mehta,ME,10.42,Python,59.0,Web Dev,,C++,Hybrid,0.4,System Admin
+STU231,Mehul Reddy,EEE,8.16,ML,35.0,Web Dev,9.0,Python,Remote,2.1,ML Engineer
+STU232,Harsh Agarwal,EEE,9.07,AWS,54.0,App Dev,8.0,R,Remote,0.9,
+STU233,Harsh Das,Civil,5.93,,71.0,Cloud,7.0,R,Onsite,1.8,Cloud Engineer
+STU234,Krish Nair,EC,,Data Science,94.0,AI,6.0,C++,Hybrid,0.7,App Developer
+STU235,Mehul Verma,EEE,8.01,Python,38.0,App Dev,4.0,JavaScript,Hybrid,2.3,App Developer
+STU236,Sneha Gupta,EC,7.92,Cyber Sec,38.0,Cloud,4.0,Go,Onsite,0.3,Software Tester
+STU237,Priya Mehta,EC,5.44,AWS,32.0,IoT,7.0,C++,Remote,,Data Engineer
+STU238,Ananya Das,Civil,8.24,ML,30.0,AI,5.0,Java,Hybrid,1.4,
+STU239,Sneha Gupta,EEE,5.95,Data Science,30.0,IoT,7.0,C,Hybrid,0.8,Cybersecurity Analyst
+STU240,Isha Sharma,EEE,,,44.0,AI,6.0,R,Remote,1.7,IoT Engineer
+STU241,Krish Gupta,C.S.E,9.7,,76.0,Data Science,9.0,JavaScript,Onsite,0.0,Cloud Engineer
+,,Civil,9.78,Data Science,43.0,Web Dev,6.0,C++,Remote,0.8,ML Engineer
+,Sanya Gupta,Civil,8.79,,86.0,Data Science,6.0,C,Remote,0.0,Cybersecurity Analyst
+STU244,Tanya Nair,EEE,9.69,ML,88.0,Data Science,3.0,Java,Remote,1.8,ML Engineer
+STU245,Divya Patel,IT,9.76,Python,35.0,AI,5.0,Python,Onsite,1.2,Data Analyst
+STU246,Krish Singh,C.S.E,7.94,Python,44.0,Web Dev,,Go,Onsite,2.7,ML Engineer
+STU247,Isha Nair,C.S.E,10.0,ML,87.0,Cloud,8.0,Python,Remote,1.2,Web Devloper
+STU248,Tanya Sharma,Civil,8.17,ML,74.0,IoT,5.0,JavaScript,Hybrid,1.5,
+STU249,Isha Das,Civil,9.74,Python,33.0,Cloud,3.0,Go,Onsite,1.0,
+STU250,Harsh Patel,EC,7.64,None,44.0,Web Dev,4.0,Python,Hybrid,1.6,Data Analyst
+STU251,Kunal Verma,ME,9.11,None,64.0,Web Dev,3.0,C++,Onsite,0.9,Web Devloper
+STU252,Divya Das,EC,8.45,Data Science,81.0,AI,4.0,Java,Remote,2.2,
+STU253,Tanya Singh,Civil,7.79,Cyber Sec,51.0,IoT,8.0,R,Onsite,1.8,Web Devloper
+STU254,Divya Agarwal,IT,7.02,ML,89.0,Cloud,7.0,C++,Hybrid,0.5,Data Analyst
+,Manav Verma,EEE,8.35,AWS,99.0,Cloud,4.0,Python,Onsite,0.6,Cybersecurity Analyst
+,Tanya Gupta,Civil,7.12,Java,96.0,Cyber Sec,4.0,C++,Onsite,1.2,Cybersecurity Analyst
+STU257,Aarav Reddy,EEE,5.82,Java,75.0,Cloud,6.0,Java,Onsite,0.3,Data Analyst
+STU258,Sneha Agarwal,Civil,,Java,62.0,Web Dev,7.0,JavaScript,Remote,0.3,Software Tester
+STU259,Sneha Gupta,,,,48.0,Data Science,3.0,JavaScript,Onsite,2.6,System Admin
+STU260,Divya Nair,IT,7.06,None,65.0,AI,9.0,C++,Remote,0.2,Cybersecurity Analyst
+STU261,Riya Reddy,EEE,5.23,ML,72.0,IoT,5.0,Go,Remote,,App Developer
+STU262,Manav Nair,EEE,8.5,,50.0,Cloud,3.0,C++,Remote,0.5,Web Devloper
+STU263,Aditya Das,IT,7.03,Cyber Sec,36.0,App Dev,9.0,C++,Hybrid,,App Developer
+STU264,Sanya Patel,EC,6.63,Python,92.0,Data Science,8.0,Java,,2.0,IoT Engineer
+STU265,Harsh Sharma,EC,8.4,,57.0,IoT,8.0,,Onsite,2.7,Web Devloper
+STU266,Harsh Mehta,EEE,5.19,Data Science,95.0,Cyber Sec,5.0,JavaScript,Onsite,2.3,IoT Engineer
+STU267,Riya Das,EC,8.37,Java,30.0,IoT,7.0,Java,Remote,0.3,Cloud Engineer
+STU268,Isha Agarwal,Civil,7.49,None,96.0,IoT,5.0,Python,Onsite,1.2,Cloud Engineer
+STU269,Sanya Nair,,7.93,None,43.0,App Dev,4.0,Java,Hybrid,2.9,ML Engineer
+STU270,Aditya Chopra,EC,9.21,Cyber Sec,34.0,IoT,7.0,JavaScript,Hybrid,0.1,System Admin
+STU271,Aditya Kumar,Civil,10.04,Python,,Cyber Sec,,R,Hybrid,1.7,Web Devloper
+STU272,Tanya Kumar,ME,6.24,AWS,,Data Science,9.0,Go,,1.1,Data Analyst
+STU273,Isha Sharma,C.S.E,6.47,AWS,65.0,IoT,4.0,JavaScript,Hybrid,1.7,System Admin
+STU274,Isha Das,EC,7.84,Java,51.0,,8.0,C,Remote,1.7,App Developer
+STU275,Aditya Sharma,AI DS,8.1,Java,68.0,App Dev,3.0,C,Onsite,1.9,Cybersecurity Analyst
+STU276,Manav Patel,EEE,8.78,None,57.0,AI,7.0,,Hybrid,1.4,Software Tester
+STU277,Ananya Kumar,AI DS,10.5,Java,37.0,Web Dev,9.0,Go,Hybrid,1.8,IoT Engineer
+STU278,Aarav Verma,ME,7.22,,99.0,AI,3.0,R,Onsite,0.7,
+STU279,Harsh Reddy,AI DS,9.56,Python,62.0,AI,9.0,Python,Hybrid,0.6,Cloud Engineer
+STU280,Aditya Nair,IT,10.21,ML,45.0,AI,,Java,Onsite,1.3,Cybersecurity Analyst
+STU281,Kunal Sharma,EC,6.82,Cyber Sec,83.0,Cyber Sec,7.0,Python,Remote,0.1,Data Analyst
+STU282,Isha Agarwal,EEE,6.6,None,37.0,IoT,7.0,C,Hybrid,2.1,Cybersecurity Analyst
+STU283,Riya Chopra,C.S.E,9.66,Python,85.0,App Dev,7.0,Go,Onsite,0.7,IoT Engineer
+STU284,Riya Verma,EC,8.84,ML,68.0,IoT,8.0,JavaScript,Hybrid,,Cloud Engineer
+,Aditya Kumar,,6.26,,71.0,Data Science,9.0,,Remote,1.2,Data Analyst
+STU286,Krish Sharma,EC,6.02,,95.0,App Dev,,Java,Remote,1.2,Data Engineer
+STU287,Isha Patel,ME,7.93,Cyber Sec,44.0,Data Science,7.0,R,Hybrid,3.0,System Admin
+STU288,Mehul Chopra,EC,8.34,AWS,43.0,Web Dev,,Python,Hybrid,2.2,Data Analyst
+STU289,Mehul Reddy,IT,10.4,Cyber Sec,68.0,Web Dev,5.0,Go,Hybrid,1.8,Cloud Engineer
+STU290,Manav Nair,ME,9.08,AWS,79.0,Data Science,6.0,R,Onsite,1.5,
+STU291,Sanya Verma,,5.98,AWS,92.0,Cloud,3.0,C,Remote,0.1,IoT Engineer
+STU292,Tanya Agarwal,EC,9.48,Cyber Sec,30.0,Web Dev,3.0,R,Hybrid,0.0,ML Engineer
+STU293,Priya Agarwal,,7.6,AWS,59.0,App Dev,5.0,Go,Onsite,2.4,IoT Engineer
+STU294,Manav Kumar,C.S.E,9.47,,45.0,Data Science,8.0,Go,Onsite,1.4,IoT Engineer
+,Aditya Das,C.S.E,9.83,,74.0,IoT,7.0,JavaScript,Hybrid,2.7,
+STU296,,,9.14,ML,93.0,Cyber Sec,,Go,Onsite,3.0,App Developer
+STU297,Riya Reddy,EEE,5.16,Data Science,96.0,Web Dev,4.0,JavaScript,Onsite,1.9,
+STU298,Divya Kumar,AI DS,5.72,Java,63.0,Cyber Sec,3.0,Java,Onsite,2.2,Software Tester
+STU299,Aditya Verma,Civil,8.26,,62.0,Cyber Sec,8.0,Go,Hybrid,1.4,System Admin
+STU300,Divya Mehta,EC,9.34,,91.0,Web Dev,7.0,Go,Hybrid,1.0,System Admin
+STU301,Aarav Singh,EEE,6.87,None,77.0,Cyber Sec,5.0,Java,Onsite,1.1,Software Tester
+STU302,,,6.7,None,91.0,Cloud,4.0,R,Hybrid,2.3,Web Devloper
+STU303,Sneha Nair,Civil,8.2,Python,59.0,,4.0,JavaScript,,1.6,IoT Engineer
+STU304,Ananya Patel,EC,7.12,Cyber Sec,92.0,App Dev,7.0,Go,Onsite,0.5,ML Engineer
+STU305,Kunal Kumar,C.S.E,6.7,,74.0,App Dev,8.0,R,Onsite,1.4,System Admin
+STU306,Manav Verma,Civil,8.07,Python,86.0,AI,7.0,Go,Onsite,2.9,ML Engineer
+STU307,Rohit Sharma,ME,5.9,Data Science,98.0,Data Science,4.0,C,Onsite,2.0,Cloud Engineer
+STU308,Krish Verma,EC,9.44,,42.0,IoT,5.0,JavaScript,Remote,2.7,System Admin
+STU309,Mehul Patel,Civil,5.91,Data Science,67.0,Data Science,3.0,Java,Hybrid,1.8,Data Analyst
+STU310,Aditya Reddy,EEE,9.53,,30.0,Web Dev,,C,Hybrid,1.8,Cybersecurity Analyst
+STU311,Harsh Patel,AI DS,10.43,,76.0,IoT,3.0,Python,Hybrid,1.6,
+STU312,Isha Chopra,EC,6.32,Java,76.0,Web Dev,3.0,Python,Onsite,1.2,IoT Engineer
+STU313,Riya Chopra,Civil,8.58,Java,79.0,App Dev,7.0,C,Onsite,1.1,
+STU314,Isha Reddy,IT,8.92,ML,49.0,Web Dev,7.0,R,Onsite,0.6,System Admin
+STU315,Sneha Chopra,EEE,6.97,,56.0,Web Dev,6.0,C++,Hybrid,0.0,Data Analyst
+STU316,Isha Nair,ME,5.16,ML,48.0,,4.0,Python,Remote,2.1,Data Analyst
+,Aarav Kumar,EEE,7.5,Java,42.0,Data Science,3.0,R,Remote,1.4,System Admin
+STU318,Sneha Singh,ME,8.53,None,86.0,Web Dev,4.0,Java,Remote,2.0,System Admin
+STU319,Manav Verma,ME,5.57,Data Science,46.0,Data Science,6.0,R,Hybrid,1.3,App Developer
+,Aarav Chopra,EEE,7.71,Java,41.0,AI,7.0,C++,,0.4,Cloud Engineer
+STU321,Aditya Nair,Civil,,Java,98.0,Web Dev,6.0,C++,Hybrid,1.7,IoT Engineer
+STU322,Mehul Patel,EEE,6.48,None,97.0,App Dev,8.0,C++,Hybrid,2.3,Software Tester
+STU323,Divya Das,Civil,5.47,None,92.0,Data Science,3.0,R,Onsite,0.2,Cybersecurity Analyst
+STU324,Riya Kumar,EEE,6.85,Data Science,69.0,IoT,3.0,C++,Remote,0.2,ML Engineer
+STU325,Mehul Kumar,ME,5.3,None,64.0,AI,6.0,Python,Hybrid,1.5,Data Analyst
+STU326,Sanya Chopra,ME,7.74,Python,55.0,Web Dev,9.0,C,Onsite,2.4,ML Engineer
+STU327,Krish Kumar,AI DS,6.01,,45.0,Cloud,6.0,C,Onsite,1.0,Data Analyst
+STU328,Mehul Nair,Civil,8.31,Data Science,61.0,IoT,9.0,JavaScript,Remote,2.5,Cloud Engineer
+STU329,,EEE,8.59,AWS,46.0,App Dev,,Python,Hybrid,0.1,Data Analyst
+STU330,Priya Chopra,Civil,8.92,Cyber Sec,42.0,,6.0,C,Onsite,2.3,App Developer
+STU331,Divya Reddy,EEE,8.8,,91.0,AI,8.0,C++,Remote,2.7,Cloud Engineer
+STU332,,IT,,ML,61.0,Cyber Sec,3.0,Python,Hybrid,2.2,Cybersecurity Analyst
+STU333,Isha Kumar,ME,7.57,None,91.0,Web Dev,7.0,C,Hybrid,3.0,Data Engineer
+STU334,Ananya Mehta,EC,8.41,,91.0,Data Science,5.0,Java,Remote,1.3,Data Engineer
+STU335,,Civil,5.71,ML,32.0,,4.0,R,Onsite,0.4,Cybersecurity Analyst
+STU336,Ananya Reddy,AI DS,9.87,AWS,36.0,Web Dev,5.0,C,Hybrid,0.9,ML Engineer
+STU337,Aditya Agarwal,AI DS,6.8,,92.0,App Dev,8.0,JavaScript,Onsite,1.0,System Admin
+STU338,Ananya Mehta,C.S.E,5.81,Java,81.0,IoT,5.0,Go,Onsite,0.1,App Developer
+STU339,Krish Reddy,AI DS,5.27,Data Science,58.0,AI,6.0,Python,Onsite,2.9,Web Devloper
+STU340,Harsh Gupta,EEE,,Data Science,86.0,Data Science,8.0,R,Onsite,1.8,Web Devloper
+STU341,Divya Verma,ME,5.77,None,84.0,Web Dev,3.0,Python,Remote,2.9,Data Engineer
+STU342,Kunal Kumar,Civil,7.1,AWS,91.0,Web Dev,7.0,C,Onsite,2.1,Cloud Engineer
+STU343,Kunal Verma,Civil,7.43,,,App Dev,3.0,C++,,1.6,IoT Engineer
+STU344,,EEE,9.24,,30.0,AI,8.0,JavaScript,,1.3,Software Tester
+STU345,Manav Mehta,AI DS,9.93,None,82.0,Cyber Sec,6.0,JavaScript,,2.5,IoT Engineer
+STU346,Sanya Agarwal,AI DS,9.66,Cyber Sec,97.0,IoT,3.0,Go,Remote,1.2,Cloud Engineer
+STU347,Priya Singh,Civil,5.2,ML,70.0,AI,5.0,Python,Remote,0.9,Cloud Engineer
+STU348,Kunal Mehta,EEE,9.26,Cyber Sec,39.0,AI,6.0,C++,Remote,1.7,
+STU349,Sneha Reddy,AI DS,6.39,Python,80.0,Cloud,6.0,Python,Hybrid,2.3,ML Engineer
+STU350,,C.S.E,10.48,ML,88.0,IoT,3.0,C,Remote,2.2,IoT Engineer
+STU351,Ananya Gupta,C.S.E,8.06,None,91.0,Cyber Sec,7.0,Go,Remote,0.4,System Admin
+STU352,Mehul Reddy,EEE,10.14,ML,,Cyber Sec,6.0,Python,Onsite,0.2,Data Engineer
+STU353,Priya Sharma,Civil,8.16,Data Science,92.0,IoT,5.0,Python,Remote,2.4,Web Devloper
+STU354,Aarav Patel,ME,8.86,AWS,85.0,Data Science,4.0,C++,Remote,1.1,Software Tester
+STU355,Tanya Das,IT,5.18,ML,99.0,Web Dev,6.0,Java,Onsite,2.2,ML Engineer
+STU356,Manav Nair,C.S.E,,None,33.0,Cloud,6.0,,Hybrid,1.7,App Developer
+STU357,Kunal Singh,ME,10.38,None,97.0,App Dev,7.0,Java,Remote,0.9,
+STU358,Mehul Patel,EC,8.14,Python,94.0,Web Dev,7.0,JavaScript,Onsite,0.1,Cybersecurity Analyst
+STU359,Divya Mehta,ME,8.33,,39.0,Cloud,8.0,Java,Hybrid,2.9,Cloud Engineer
+STU360,Priya Mehta,EEE,6.09,None,92.0,Cloud,4.0,,Hybrid,0.1,Cybersecurity Analyst
+STU361,Aditya Agarwal,,5.84,ML,58.0,AI,7.0,C++,Remote,2.2,Cybersecurity Analyst
+STU362,Tanya Verma,ME,8.6,None,,IoT,8.0,C++,Remote,0.6,Cybersecurity Analyst
+STU363,Sanya Mehta,C.S.E,5.3,ML,53.0,IoT,3.0,Java,Hybrid,0.6,Cloud Engineer
+STU364,Riya Reddy,Civil,6.09,None,60.0,Web Dev,7.0,C,Onsite,0.0,Cloud Engineer
+STU365,Mehul Nair,Civil,5.5,,43.0,App Dev,,Java,Hybrid,2.0,IoT Engineer
+STU366,Rohit Gupta,EC,9.69,,53.0,Cloud,9.0,,Hybrid,2.8,Data Analyst
+STU367,Mehul Gupta,ME,6.11,,90.0,Cloud,,C,Hybrid,0.9,System Admin
+STU368,Isha Gupta,IT,10.3,None,97.0,Data Science,4.0,R,Remote,1.9,ML Engineer
+STU369,Ananya Reddy,IT,7.33,AWS,,IoT,7.0,Go,Onsite,2.9,App Developer
+STU370,Krish Nair,EC,6.27,Python,63.0,Data Science,7.0,C,Onsite,0.5,Data Analyst
+STU371,Divya Sharma,Civil,10.31,Python,68.0,IoT,7.0,JavaScript,Remote,2.0,Data Analyst
+STU372,Priya Kumar,EC,9.65,Data Science,80.0,IoT,4.0,C,Onsite,2.3,Cloud Engineer
+STU373,Tanya Das,C.S.E,7.41,,67.0,AI,7.0,Java,Onsite,2.6,App Developer
+STU374,Harsh Sharma,IT,7.5,Python,35.0,Cloud,5.0,Java,Onsite,,
+STU375,Kunal Das,IT,7.68,Data Science,34.0,Cyber Sec,9.0,C++,Remote,2.9,Data Analyst
+STU376,Isha Agarwal,ME,9.41,,88.0,Data Science,7.0,C++,Hybrid,1.5,App Developer
+STU377,Mehul Mehta,IT,10.09,Python,82.0,Cloud,7.0,JavaScript,Remote,0.5,Data Analyst
+STU378,Aditya Nair,EEE,10.0,,60.0,AI,4.0,R,Onsite,1.1,Data Analyst
+STU379,Sanya Agarwal,EEE,9.04,ML,85.0,App Dev,7.0,C++,Hybrid,2.0,Software Tester
+STU380,Harsh Das,ME,9.37,Python,75.0,Web Dev,4.0,Go,Hybrid,0.6,
+STU381,Manav Chopra,EC,,ML,70.0,AI,5.0,R,Hybrid,1.4,App Developer
+STU382,Harsh Das,IT,6.59,ML,51.0,AI,3.0,Python,Hybrid,1.4,System Admin
+STU383,Riya Das,Civil,6.31,Java,87.0,Data Science,3.0,Java,Hybrid,1.8,Web Devloper
+STU384,Isha Das,Civil,,None,72.0,AI,6.0,Python,Onsite,,App Developer
+STU385,Ananya Kumar,ME,8.1,,69.0,App Dev,8.0,Java,Onsite,2.0,System Admin
+STU386,Kunal Chopra,Civil,7.59,Cyber Sec,55.0,,8.0,Python,Remote,1.7,Software Tester
+STU387,Riya Agarwal,IT,5.79,Python,84.0,IoT,9.0,Java,Hybrid,1.3,ML Engineer
+STU388,Sanya Patel,EC,8.32,Data Science,86.0,,7.0,Go,Hybrid,2.7,Web Devloper
+STU389,Aarav Nair,AI DS,,,95.0,IoT,3.0,Go,Remote,1.5,Data Engineer
+STU390,Tanya Verma,EEE,10.37,,88.0,IoT,6.0,Java,Hybrid,2.5,
+STU391,Isha Gupta,ME,6.61,ML,62.0,Cyber Sec,6.0,JavaScript,Hybrid,2.0,Software Tester
+STU392,Rohit Das,EEE,8.21,Python,30.0,App Dev,9.0,JavaScript,Onsite,0.4,Web Devloper
+STU393,Aarav Reddy,ME,5.88,Python,63.0,AI,4.0,JavaScript,Hybrid,0.1,Data Analyst
+STU394,,AI DS,7.11,Data Science,37.0,AI,6.0,Python,Hybrid,2.4,Web Devloper
+STU395,Isha Gupta,IT,10.42,Java,52.0,IoT,6.0,R,Hybrid,2.4,Data Analyst
+,Riya Agarwal,ME,6.32,,73.0,Cyber Sec,4.0,C,Onsite,2.6,Software Tester
+STU397,Rohit Patel,IT,6.14,Python,62.0,App Dev,8.0,Python,Hybrid,2.6,IoT Engineer
+STU398,Priya Patel,AI DS,6.1,Cyber Sec,85.0,Data Science,8.0,JavaScript,Onsite,1.2,System Admin
+STU399,Mehul Reddy,ME,7.31,,53.0,Data Science,9.0,C,Hybrid,2.8,IoT Engineer
+STU400,Kunal Nair,EC,5.44,,86.0,App Dev,3.0,R,Hybrid,0.8,Cloud Engineer
+STU401,Divya Verma,ME,6.85,Python,57.0,Cloud,6.0,JavaScript,Remote,2.5,Data Analyst
+STU402,Divya Chopra,EEE,10.46,None,83.0,Cyber Sec,3.0,R,,2.9,IoT Engineer
+STU403,Aditya Verma,EC,10.45,None,94.0,IoT,3.0,Go,Remote,1.9,Cybersecurity Analyst
+STU404,Aarav Gupta,ME,6.62,,78.0,App Dev,4.0,C,Onsite,0.8,Cybersecurity Analyst
+STU405,Mehul Chopra,Civil,7.62,Java,99.0,Web Dev,9.0,R,Onsite,2.1,Cybersecurity Analyst
+STU406,Ananya Chopra,Civil,10.33,Data Science,57.0,Cyber Sec,6.0,R,,0.0,IoT Engineer
+STU407,Krish Sharma,C.S.E,10.38,Python,32.0,Web Dev,4.0,R,Onsite,1.4,App Developer
+STU408,Divya Sharma,C.S.E,9.81,Cyber Sec,75.0,Data Science,4.0,C,Hybrid,2.9,Software Tester
+STU409,Priya Gupta,,7.61,ML,80.0,Cloud,7.0,Go,Hybrid,0.0,Data Analyst
+STU410,Mehul Gupta,Civil,9.51,None,83.0,IoT,,Python,Remote,1.4,System Admin
+STU411,Riya Gupta,AI DS,7.78,None,73.0,AI,7.0,,Onsite,1.7,Cybersecurity Analyst
+STU412,Harsh Patel,EEE,7.88 ,,82.0,Cyber Sec,9.0,Java,Hybrid,2.3,System Admin
+STU413,Isha Reddy,AI DS,7.77,Python,,IoT,4.0,Python,Remote,0.9,Web Devloper
+STU414,Priya Reddy,Civil,5.74,Python,99.0,AI,5.0,C++,Hybrid,1.4,
+STU415,Rohit Kumar,AI DS,6.11,Python,66.0,App Dev,9.0,Python,Onsite,2.1,Web Devloper
+STU416,Sanya Sharma,ME,5.65,ML,84.0,App Dev,7.0,,Onsite,0.4,App Developer
+STU417,Kunal Das,EEE,6.18,Java,83.0,,6.0,Python,Onsite,2.6,Data Analyst
+STU418,Kunal Das,ME,7.14,Cyber Sec,51.0,Data Science,4.0,JavaScript,Hybrid,3.0,IoT Engineer
+STU419,Aarav Verma,Civil,6.96,,86.0,,8.0,C,Onsite,0.1,ML Engineer
+STU420,Aditya Singh,C.S.E,9.33,ML,68.0,AI,,C,Onsite,2.3,Cloud Engineer
+STU421,Divya Mehta,EC,,Python,52.0,Web Dev,3.0,JavaScript,Hybrid,0.9,App Developer
+STU422,Isha Chopra,Civil,9.23,Cyber Sec,64.0,Web Dev,,Go,Remote,1.5,ML Engineer
+STU423,,AI DS,8.63,Data Science,82.0,,6.0,R,Onsite,2.3,System Admin
+STU424,Aarav Gupta,EC,9.34,None,88.0,Data Science,9.0,C,Remote,,Software Tester
+STU425,Harsh Patel,C.S.E,9.51,Data Science,86.0,App Dev,8.0,C,Remote,1.6,Software Tester
+STU426,Tanya Kumar,IT,8.65,,59.0,Data Science,6.0,C,Remote,1.3,Data Engineer
+STU427,Isha Verma,IT,7.98,,,Cloud,6.0,C++,Remote,1.9,ML Engineer
+STU428,Sneha Nair,AI DS,5.84,Cyber Sec,52.0,AI,7.0,C,Onsite,2.3,Data Analyst
+STU429,Tanya Das,Civil,6.57,None,79.0,IoT,3.0,JavaScript,,1.6,Software Tester
+STU430,Mehul Verma,,5.58,Cyber Sec,61.0,AI,3.0,R,Hybrid,1.3,ML Engineer
+STU431,Krish Sharma,C.S.E,10.41,ML,92.0,Web Dev,8.0,JavaScript,Hybrid,0.4,Cybersecurity Analyst
+STU432,Sneha Kumar,EC,6.95,AWS,59.0,App Dev,4.0,C,Hybrid,1.5,Cloud Engineer
+STU433,Ananya Verma,Civil,8.55,Python,45.0,App Dev,4.0,Python,Hybrid,2.8,ML Engineer
+STU434,Rohit Sharma,C.S.E,5.39,Data Science,93.0,Web Dev,8.0,Python,Hybrid,1.6,Data Engineer
+STU435,Sanya Das,EC,5.62,,57.0,Web Dev,6.0,Java,Remote,0.3,Cloud Engineer
+STU436,Divya Nair,AI DS,8.11,None,86.0,App Dev,9.0,Python,Hybrid,2.4,Software Tester
+STU437,Krish Verma,IT,10.41,ML,80.0,Cyber Sec,5.0,C++,Hybrid,2.3,Cloud Engineer
+STU438,,AI DS,7.07,AWS,95.0,Cloud,3.0,Python,Remote,1.1,IoT Engineer
+STU439,Kunal Reddy,AI DS,10.12,Python,42.0,Cyber Sec,4.0,Go,,1.0,IoT Engineer
+STU440,Harsh Sharma,EC,5.76,AWS,40.0,Cloud,,R,Remote,2.5,Data Analyst
+STU441,Divya Nair,C.S.E,5.9,Cyber Sec,51.0,AI,5.0,Go,Remote,0.4,Cybersecurity Analyst
+STU442,Isha Verma,IT,6.4,Data Science,74.0,Cloud,5.0,Python,,2.4,Cloud Engineer
+STU443,,EEE,6.72,AWS,,Web Dev,9.0,C,Remote,2.7,ML Engineer
+STU444,Sanya Agarwal,ME,8.0,Python,93.0,AI,5.0,Go,Remote,1.1,IoT Engineer
+STU445,Ananya Chopra,C.S.E,8.6,Python,82.0,Cloud,3.0,C++,Hybrid,1.0,Cybersecurity Analyst
+STU446,Krish Mehta,EEE,8.56,Data Science,58.0,AI,9.0,C++,Onsite,2.2,Cloud Engineer
+STU447,Rohit Patel,Civil,,None,40.0,Web Dev,7.0,Java,,1.9,Cybersecurity Analyst
+STU448,Rohit Nair,,5.85,,99.0,Web Dev,4.0,Python,Remote,3.0,System Admin
+,Manav Gupta,C.S.E,7.1,Cyber Sec,54.0,AI,5.0,R,Hybrid,1.4,App Developer
+STU450,Tanya Sharma,IT,9.33,,52.0,App Dev,8.0,R,,2.7,Cybersecurity Analyst
+STU451,Manav Sharma,ME,9.54,Data Science,97.0,Web Dev,6.0,Python,Hybrid,2.9,IoT Engineer
+,Riya Nair,IT,8.09,,93.0,Data Science,9.0,JavaScript,Onsite,1.4,Data Engineer
+STU453,,EC,7.13,AWS,84.0,Cyber Sec,6.0,R,Remote,2.3,Software Tester
+STU454,Rohit Kumar,EEE,5.8,Java,71.0,App Dev,4.0,Go,Hybrid,2.2,IoT Engineer
+STU455,,Civil,6.29,Java,77.0,Data Science,,JavaScript,Hybrid,,Web Devloper
+STU456,Aditya Sharma,C.S.E,9.62,Data Science,66.0,App Dev,3.0,Java,,0.7,Data Analyst
+STU457,Harsh Mehta,IT,9.84,,,Data Science,8.0,Go,Hybrid,2.3,IoT Engineer
+STU458,Divya Gupta,IT,6.81,Java,82.0,Cloud,9.0,C,Hybrid,1.0,System Admin
+STU459,Priya Mehta,EC,8.76,AWS,52.0,Web Dev,9.0,C++,Hybrid,2.0,App Developer
+STU460,Rohit Verma,EC,5.17,ML,30.0,Cyber Sec,5.0,R,Remote,0.8,Data Engineer
+STU461,Divya Verma,C.S.E,10.16,Data Science,36.0,Web Dev,7.0,JavaScript,Hybrid,2.5,Cybersecurity Analyst
+STU462,Isha Singh,IT,9.03,Data Science,86.0,Cyber Sec,8.0,Go,Hybrid,2.9,Data Engineer
+STU463,Sanya Mehta,AI DS,9.79,,39.0,App Dev,5.0,R,Hybrid,2.3,System Admin
+STU464,Aarav Gupta,IT,6.39,Java,47.0,AI,5.0,C++,Remote,,System Admin
+STU465,Ananya Nair,AI DS,8.43,ML,93.0,Cloud,5.0,C++,Hybrid,0.6,Software Tester
+STU466,Isha Gupta,AI DS,6.59,,53.0,IoT,8.0,Java,Remote,1.0,Data Analyst
+STU467,Rohit Verma,Civil,7.91,Python,80.0,IoT,9.0,JavaScript,Remote,2.6,Software Tester
+STU468,Sanya Reddy,Civil,8.59,ML,32.0,Data Science,8.0,Go,Onsite,2.7,Web Devloper
+STU469,Priya Patel,Civil,8.83,None,31.0,Data Science,7.0,Python,Remote,1.7,ML Engineer
+STU470,Aarav Verma,EEE,10.26,,98.0,App Dev,3.0,,Hybrid,,Cybersecurity Analyst
+STU471,Manav Singh,AI DS,9.11,,38.0,IoT,6.0,,Remote,2.5,Cloud Engineer
+STU472,Isha Reddy,EC,6.14,,61.0,Web Dev,9.0,R,Remote,1.8,Data Engineer
+STU473,Mehul Kumar,,9.06,Cyber Sec,74.0,Data Science,3.0,Go,Hybrid,0.5,Data Analyst
+STU474,Harsh Mehta,C.S.E,8.6,Cyber Sec,58.0,Cyber Sec,8.0,C++,Onsite,0.4,Web Devloper
+STU475,Tanya Sharma,EC,6.13,Python,58.0,IoT,5.0,R,Remote,0.5,IoT Engineer
+,Riya Sharma,AI DS,6.06,None,65.0,,7.0,,Remote,0.5,Software Tester
+STU477,Harsh Agarwal,EC,7.68,Python,71.0,Cloud,5.0,C,Remote,2.2,Data Engineer
+STU478,Sanya Sharma,EC,9.96,Java,82.0,Data Science,9.0,Java,Remote,1.1,App Developer
+STU479,Divya Mehta,IT,8.22,ML,35.0,Web Dev,9.0,Java,,1.9,Web Devloper
+STU480,Harsh Singh,EEE,6.47,Cyber Sec,69.0,AI,4.0,Go,Onsite,1.8,ML Engineer
+STU481,,ME,6.74,AWS,55.0,Web Dev,5.0,R,Onsite,0.8,Software Tester
+STU482,Isha Singh,C.S.E,8.68,None,47.0,AI,3.0,R,Onsite,,Web Devloper
+STU483,Krish Patel,AI DS,nan ,None,95.0,Data Science,3.0,C,Onsite,2.8,IoT Engineer
+STU484,Ananya Agarwal,C.S.E,9.4,,45.0,AI,4.0,Go,Hybrid,1.0,Cloud Engineer
+STU485,Riya Agarwal,ME,8.84,ML,65.0,Cloud,3.0,Go,Onsite,0.0,System Admin
+STU486,Sanya Kumar,ME,9.92,None,97.0,IoT,3.0,Java,Onsite,,
+STU487,,ME,8.15,Cyber Sec,88.0,App Dev,,JavaScript,Hybrid,2.5,ML Engineer
+STU488,Aditya Verma,IT,5.31,AWS,65.0,Cyber Sec,9.0,Java,Remote,1.7,Software Tester
+STU489,Harsh Reddy,IT,6.27,Data Science,74.0,Web Dev,9.0,Python,Remote,1.6,Cybersecurity Analyst
+STU490,Mehul Agarwal,Civil,5.89,Python,78.0,App Dev,5.0,Java,Hybrid,1.0,Web Devloper
+STU491,Rohit Gupta,EEE,10.14,Python,64.0,Cyber Sec,7.0,Python,Hybrid,0.4,System Admin
+STU492,Ananya Patel,C.S.E,5.59,Cyber Sec,74.0,App Dev,4.0,Python,Onsite,0.4,Data Engineer
+STU493,Tanya Agarwal,Civil,5.93,,73.0,AI,4.0,Go,Remote,2.0,Data Engineer
+STU494,,IT,5.82,Cyber Sec,73.0,,5.0,R,Hybrid,2.2,Cybersecurity Analyst
+STU495,Isha Reddy,Civil,9.28,Python,61.0,Cyber Sec,4.0,C,Onsite,0.7,Software Tester
+STU496,Kunal Verma,Civil,5.78,None,62.0,App Dev,3.0,Java,Hybrid,0.3,Data Analyst
+STU497,Krish Agarwal,IT,7.41 ,AWS,81.0,,5.0,C++,Hybrid,0.2,Cloud Engineer
+STU498,Harsh Sharma,,6.64,None,71.0,Web Dev,8.0,C++,Onsite,2.5,Software Tester
+,Kunal Sharma,ME,8.7,,74.0,IoT,8.0,C++,Hybrid,2.6,Cloud Engineer
+STU500,Ananya Das,EEE,9.1,Cyber Sec,47.0,Data Science,7.0,R,Onsite,2.4,Data Engineer
+STU501,Rohit Sharma,ME,9.37,Python,,Data Science,9.0,C,Remote,0.3,Data Analyst
+STU502,Manav Singh,IT,5.52,,71.0,Data Science,7.0,,Remote,0.8,System Admin
+STU503,Kunal Singh,Civil,10.5,AWS,86.0,Cloud,5.0,R,Hybrid,1.1,Cloud Engineer
+STU504,Manav Chopra,C.S.E,5.62,,88.0,Cloud,9.0,Python,Onsite,0.2,IoT Engineer
+STU505,Divya Singh,C.S.E,7.15,,50.0,,7.0,JavaScript,,1.9,System Admin
+STU506,Divya Kumar,IT,,None,35.0,Data Science,5.0,R,Remote,1.8,Data Analyst
+STU507,Kunal Patel,EEE,8.05,ML,47.0,App Dev,9.0,C,Hybrid,2.9,Data Engineer
+STU508,Aarav Patel,,5.64 ,,95.0,App Dev,7.0,JavaScript,,1.6,Data Analyst
+STU509,Riya Kumar,EC,5.61,AWS,,AI,6.0,Java,Remote,2.6,App Developer
+STU510,Priya Agarwal,IT,9.73,,74.0,Data Science,7.0,C++,Onsite,2.8,System Admin
+STU511,Priya Verma,EEE,6.13,Cyber Sec,91.0,,4.0,JavaScript,Remote,2.7,Data Analyst
+STU512,Aditya Sharma,Civil,7.61,,81.0,App Dev,5.0,JavaScript,Remote,2.6,System Admin
+STU513,Aarav Singh,AI DS,7.09,Java,45.0,Cloud,9.0,Java,Onsite,2.9,Web Devloper
+STU514,Aditya Chopra,AI DS,8.38,,87.0,Cyber Sec,5.0,R,Hybrid,0.6,Web Devloper
+STU515,Manav Chopra,C.S.E,5.3,Python,75.0,Data Science,4.0,Java,Onsite,1.4,Software Tester
+STU516,Mehul Kumar,IT,9.03,AWS,85.0,Cyber Sec,4.0,C++,Remote,0.6,Data Engineer
+STU517,Aarav Singh,IT,7.12,AWS,83.0,AI,6.0,C,Onsite,2.5,Data Engineer
+STU518,Tanya Das,EEE,10.0,Python,38.0,App Dev,7.0,R,Onsite,2.5,Data Engineer
+STU519,,EEE,7.81,Cyber Sec,44.0,Web Dev,5.0,C++,Onsite,0.4,Data Engineer
+STU520,Mehul Nair,,9.87,None,36.0,App Dev,5.0,C++,Onsite,0.6,ML Engineer
+STU521,Ananya Singh,Civil,5.75,Java,97.0,Web Dev,7.0,Python,Onsite,1.8,Web Devloper
+STU522,Sanya Reddy,C.S.E,,Cyber Sec,61.0,IoT,6.0,C++,Remote,2.1,Data Engineer
+STU523,Aditya Agarwal,EEE,10.07 ,,42.0,AI,9.0,C,Hybrid,1.5,Data Analyst
+STU524,Tanya Patel,IT,7.74,AWS,46.0,Data Science,5.0,C,Onsite,2.4,ML Engineer
+STU525,Divya Reddy,EC,8.9,Python,42.0,AI,3.0,C,Onsite,2.4,System Admin
+STU526,Manav Sharma,C.S.E,9.93,AWS,46.0,Web Dev,5.0,Go,Remote,1.5,Data Analyst
+STU527,Isha Verma,ME,8.24,Data Science,39.0,AI,9.0,Go,Remote,1.1,ML Engineer
+STU528,,EEE,7.82,Cyber Sec,40.0,AI,5.0,JavaScript,Onsite,2.8,Data Engineer
+STU529,Harsh Sharma,IT,10.05,Data Science,52.0,Web Dev,8.0,Java,Remote,0.7,Software Tester
+STU530,Tanya Reddy,ME,9.67,AWS,70.0,App Dev,4.0,Java,Remote,2.2,IoT Engineer
+STU531,Aditya Agarwal,EC,5.04,AWS,59.0,Web Dev,8.0,C++,Onsite,1.9,Software Tester
+STU532,Isha Kumar,C.S.E,7.01,Java,33.0,IoT,9.0,R,Remote,,System Admin
+STU533,Harsh Nair,EEE,6.48,Java,49.0,Web Dev,5.0,C++,Remote,0.1,System Admin
+STU534,Divya Agarwal,Civil,6.29,,75.0,Data Science,4.0,Go,Remote,1.7,Cybersecurity Analyst
+STU535,Aarav Mehta,ME,5.11,None,64.0,Data Science,8.0,JavaScript,Remote,1.2,Cloud Engineer
+STU536,Aditya Gupta,IT,6.21,Python,59.0,Data Science,7.0,C,Hybrid,1.1,Cybersecurity Analyst
+,Sanya Agarwal,Civil,8.2,Data Science,53.0,AI,8.0,C++,Remote,1.8,Data Engineer
+STU538,Isha Agarwal,EEE,8.72,Python,71.0,AI,4.0,Go,Onsite,0.5,Cloud Engineer
+STU539,Aditya Chopra,EEE,,Data Science,,Data Science,9.0,R,Remote,1.0,IoT Engineer
+STU540,Rohit Chopra,EEE,6.59,Java,75.0,Cyber Sec,,Java,,0.3,Data Engineer
+STU541,Priya Reddy,Civil,7.0,Python,51.0,Web Dev,,C,Hybrid,2.1,IoT Engineer
+STU542,Riya Mehta,ME,6.16,,37.0,App Dev,8.0,JavaScript,Hybrid,2.6,App Developer
+,Tanya Das,EEE,9.19,,65.0,Web Dev,4.0,JavaScript,Remote,0.6,Web Devloper
+STU544,Isha Patel,ME,6.07,Java,49.0,Web Dev,8.0,R,Remote,2.0,App Developer
+STU545,Krish Kumar,EC,7.08,Cyber Sec,40.0,Web Dev,3.0,C++,Remote,0.4,Cloud Engineer
+STU546,Manav Mehta,C.S.E,7.04,,39.0,Cyber Sec,4.0,C++,Onsite,1.3,Data Engineer
+STU547,Isha Kumar,IT,6.26,Data Science,61.0,IoT,9.0,C,Hybrid,2.7,System Admin
+STU548,Aditya Kumar,ME,10.15,Data Science,92.0,Cloud,7.0,R,Onsite,0.0,Data Analyst
+STU549,Harsh Verma,AI DS,5.74,AWS,70.0,Web Dev,5.0,R,Remote,0.4,App Developer
+STU550,Divya Agarwal,ME,7.25,ML,82.0,App Dev,,Go,Onsite,0.1,Data Engineer
+STU551,Kunal Kumar,EC,9.89,Java,88.0,Cyber Sec,8.0,JavaScript,Onsite,1.2,ML Engineer
+STU552,Priya Gupta,EEE,5.68,AWS,,,3.0,C,Onsite,2.3,App Developer
+,Isha Singh,AI DS,7.96,None,43.0,Cloud,8.0,Python,Remote,0.0,Cloud Engineer
+STU554,Kunal Kumar,ME,9.25,None,72.0,Cyber Sec,9.0,R,Remote,2.9,App Developer
+STU555,Rohit Das,Civil,8.57,Python,91.0,IoT,8.0,Java,Remote,1.6,Software Tester
+STU556,Kunal Sharma,AI DS,5.68,AWS,80.0,AI,8.0,Python,Onsite,0.2,
+STU557,Ananya Singh,Civil,6.91,AWS,35.0,Cyber Sec,5.0,Python,Hybrid,0.3,IoT Engineer
+STU558,Harsh Verma,C.S.E,7.34,None,87.0,Cloud,5.0,JavaScript,Remote,0.4,Web Devloper
+STU559,Tanya Reddy,ME,7.1,,68.0,Cloud,,C,Hybrid,2.8,IoT Engineer
+STU560,Priya Nair,EEE,7.73,AWS,32.0,Cloud,6.0,,Remote,0.4,Data Analyst
+STU561,Ananya Mehta,Civil,7.9,None,51.0,App Dev,8.0,C++,Onsite,2.7,App Developer
+STU562,Aditya Kumar,EEE,6.26,AWS,67.0,Cloud,8.0,Python,Onsite,2.0,IoT Engineer
+STU563,Ananya Nair,ME,5.76,Python,65.0,Data Science,9.0,C,Onsite,0.1,IoT Engineer
+,Divya Agarwal,IT,6.25,AWS,58.0,Data Science,6.0,C,Hybrid,2.0,App Developer
+STU565,Mehul Gupta,,,Java,83.0,Cloud,6.0,JavaScript,Remote,0.8,IoT Engineer
+STU566,Harsh Reddy,C.S.E,10.11,None,98.0,AI,6.0,,Remote,2.4,Cybersecurity Analyst
+STU567,Divya Reddy,ME,6.56,Cyber Sec,57.0,Cyber Sec,7.0,Go,Hybrid,2.3,Web Devloper
+STU568,Divya Reddy,ME,10.38,Data Science,40.0,,3.0,C++,Remote,0.0,IoT Engineer
+STU569,Tanya Kumar,AI DS,5.16,ML,55.0,,7.0,Go,Hybrid,1.6,Web Devloper
+STU570,Aarav Chopra,AI DS,7.44,ML,43.0,Cloud,7.0,R,Hybrid,2.5,Data Engineer
+STU571,Aarav Reddy,ME,9.07,None,90.0,Cloud,6.0,C,Hybrid,1.3,Software Tester
+STU572,Harsh Kumar,IT,8.8,Cyber Sec,43.0,Data Science,4.0,C++,Remote,0.6,Data Analyst
+STU573,Tanya Nair,ME,5.98,ML,35.0,Web Dev,9.0,Java,Hybrid,1.9,System Admin
+STU574,Tanya Patel,ME,6.54,ML,80.0,Cyber Sec,4.0,Go,Onsite,1.4,Cloud Engineer
+STU575,Sanya Mehta,EEE,7.8,None,70.0,Data Science,5.0,R,Hybrid,2.6,Data Engineer
+STU576,Krish Singh,ME,5.39,None,71.0,IoT,6.0,,Remote,2.3,Cybersecurity Analyst
+STU577,Sanya Reddy,EEE,,Cyber Sec,44.0,Web Dev,8.0,Python,Hybrid,,System Admin
+STU578,Harsh Verma,IT,6.71,,62.0,,3.0,,Onsite,0.9,App Developer
+STU579,Krish Patel,ME,5.27,,72.0,AI,5.0,Go,Onsite,1.9,Data Engineer
+,Ananya Singh,Civil,7.48,AWS,82.0,App Dev,6.0,R,Hybrid,1.2,App Developer
+STU581,Mehul Verma,Civil,8.53,Python,,AI,,,Remote,0.7,Software Tester
+STU582,Mehul Patel,,9.23,,61.0,IoT,6.0,C++,,0.3,Software Tester
+STU583,Harsh Chopra,Civil,9.86,Cyber Sec,39.0,Cyber Sec,7.0,JavaScript,Onsite,2.1,Data Analyst
+STU584,Manav Agarwal,EC,6.46,None,31.0,Cloud,4.0,,Hybrid,0.3,IoT Engineer
+STU585,Sneha Sharma,ME,,Java,63.0,IoT,,Go,Hybrid,2.4,App Developer
+STU586,Isha Singh,IT,6.54,None,54.0,AI,7.0,C,Hybrid,2.5,Cloud Engineer
+STU587,Sneha Nair,IT,,Cyber Sec,91.0,App Dev,9.0,C,Onsite,2.7,Data Analyst
+STU588,Tanya Verma,EC,7.17 ,None,63.0,Cloud,7.0,C,Remote,,Software Tester
+STU589,,EEE,8.49,AWS,88.0,Web Dev,3.0,C++,Onsite,2.2,Cybersecurity Analyst
+STU590,Aarav Kumar,IT,9.52 ,ML,45.0,AI,9.0,Java,Hybrid,0.4,Data Engineer
+STU591,Ananya Das,Civil,7.8,None,46.0,AI,6.0,C,Hybrid,1.4,Data Engineer
+STU592,Manav Agarwal,EEE,7.91,,95.0,Cyber Sec,,Java,Remote,,Software Tester
+STU593,Ananya Agarwal,IT,5.11,ML,76.0,Web Dev,5.0,C++,,0.1,Software Tester
+STU594,Tanya Kumar,IT,6.32,AWS,56.0,App Dev,4.0,JavaScript,Hybrid,2.9,App Developer
+STU595,Ananya Verma,EEE,7.9,Java,67.0,AI,5.0,C,Onsite,1.2,IoT Engineer
+STU596,Rohit Chopra,ME,5.4,,72.0,IoT,3.0,R,Hybrid,2.7,Data Analyst
+,,ME,6.26,Data Science,40.0,,5.0,JavaScript,Hybrid,1.9,System Admin
+STU598,Krish Patel,IT,9.67,,49.0,App Dev,8.0,Go,Onsite,1.2,ML Engineer
+STU599,Aarav Nair,C.S.E,8.33,Java,,IoT,9.0,R,Onsite,,Web Devloper
+STU600,,IT,5.96,AWS,33.0,Cloud,7.0,C++,Onsite,,Data Engineer
+STU601,Divya Mehta,,7.59,Cyber Sec,96.0,Cloud,3.0,C++,Onsite,0.6,App Developer
+STU602,Krish Patel,C.S.E,8.66,Python,37.0,Web Dev,3.0,Java,Remote,1.7,Data Engineer
+STU603,Riya Reddy,AI DS,6.59,ML,99.0,Web Dev,7.0,Python,Remote,1.1,Cloud Engineer
+STU604,Manav Chopra,EC,7.88,None,66.0,,6.0,,Onsite,0.2,ML Engineer
+STU605,Ananya Agarwal,ME,,,81.0,App Dev,7.0,Go,Hybrid,1.3,App Developer
+STU606,Ananya Mehta,Civil,8.47,Cyber Sec,74.0,Cyber Sec,5.0,R,Onsite,,Data Analyst
+STU607,Harsh Das,ME,8.07,Data Science,69.0,Web Dev,3.0,R,Onsite,0.9,System Admin
+STU608,Harsh Das,IT,9.4 ,None,81.0,IoT,8.0,JavaScript,Remote,,IoT Engineer
+STU609,Sanya Reddy,EC,9.75,Cyber Sec,,Cyber Sec,4.0,JavaScript,Hybrid,1.8,Cybersecurity Analyst
+STU610,Rohit Sharma,IT,5.69,Java,90.0,AI,5.0,C,Hybrid,0.2,IoT Engineer
+STU611,Krish Mehta,ME,8.63,Java,89.0,IoT,4.0,Python,Remote,0.5,System Admin
+STU612,Harsh Das,Civil,8.9,AWS,89.0,Data Science,6.0,Go,Remote,,IoT Engineer
+STU613,Rohit Patel,ME,8.8,ML,62.0,Cloud,8.0,R,Remote,2.8,Data Engineer
+STU614,Isha Verma,AI DS,9.08,AWS,88.0,Web Dev,8.0,C++,Hybrid,0.2,App Developer
+STU615,Priya Gupta,Civil,8.39,,85.0,Cyber Sec,7.0,Java,Hybrid,0.7,Web Devloper
+STU616,Ananya Das,EEE,9.09,Python,65.0,IoT,4.0,C++,Remote,0.9,Web Devloper
+STU617,Riya Mehta,IT,8.47,ML,69.0,Cyber Sec,6.0,Python,Hybrid,0.1,IoT Engineer
+STU618,Krish Verma,EEE,5.27,,87.0,AI,9.0,C,Onsite,2.9,Cloud Engineer
+STU619,Riya Gupta,EC,6.89 ,ML,90.0,App Dev,3.0,C,Onsite,2.0,IoT Engineer
+,Sneha Agarwal,IT,7.31,,93.0,IoT,8.0,Java,Hybrid,2.4,Software Tester
+STU621,Sanya Das,C.S.E,9.67 ,ML,69.0,,8.0,C,Hybrid,0.4,Cybersecurity Analyst
+STU622,Harsh Singh,AI DS,9.35,ML,78.0,Data Science,7.0,Python,Hybrid,2.9,System Admin
+STU623,Aarav Agarwal,EEE,7.58,Python,81.0,Web Dev,4.0,Python,Onsite,2.7,Software Tester
+STU624,Ananya Singh,EEE,5.03,Cyber Sec,62.0,App Dev,8.0,Java,Onsite,0.2,Data Analyst
+STU625,Riya Singh,C.S.E,7.65,ML,46.0,AI,6.0,JavaScript,Onsite,2.3,System Admin
+,Mehul Mehta,IT,10.27,ML,42.0,Web Dev,3.0,Java,Hybrid,2.4,Data Analyst
+STU627,Kunal Agarwal,C.S.E,6.93,,56.0,Web Dev,4.0,C,,0.1,Data Analyst
+STU628,Riya Reddy,EEE,8.12,ML,80.0,IoT,7.0,Python,Hybrid,1.1,Cybersecurity Analyst
+STU629,Isha Reddy,C.S.E,10.09,,94.0,Cloud,9.0,Python,Hybrid,1.5,Cloud Engineer
+STU630,Manav Chopra,EC,9.73,ML,,Web Dev,7.0,Java,Onsite,,Data Analyst
+STU631,Isha Chopra,AI DS,6.94,,99.0,Web Dev,4.0,C++,Hybrid,0.2,ML Engineer
+STU632,Isha Agarwal,EC,5.22,ML,85.0,Cyber Sec,6.0,Python,Hybrid,0.4,Web Devloper
+STU633,Aditya Sharma,C.S.E,8.76,,,Cloud,9.0,R,Remote,1.4,ML Engineer
+STU634,Mehul Sharma,Civil,6.82,Python,55.0,,5.0,Java,Remote,0.1,Cloud Engineer
+STU635,Sanya Chopra,ME,8.31,ML,33.0,Cyber Sec,7.0,C,,3.0,
+STU636,Kunal Agarwal,,7.74,Data Science,65.0,App Dev,3.0,R,Remote,1.9,Web Devloper
+STU637,Aditya Reddy,IT,6.31,AWS,91.0,Cyber Sec,6.0,Go,Onsite,2.8,Cybersecurity Analyst
+STU638,Riya Sharma,Civil,7.65,Python,83.0,IoT,,C++,,0.2,Data Analyst
+STU639,Sneha Nair,C.S.E,7.14,AWS,88.0,Cyber Sec,4.0,Python,Remote,2.4,Cybersecurity Analyst
+STU640,,ME,8.4,Python,32.0,AI,4.0,Go,Hybrid,,Web Devloper
+STU641,Divya Verma,AI DS,8.95,Data Science,80.0,,9.0,C++,Remote,2.4,Data Engineer
+STU642,Sneha Das,IT,5.09,,61.0,IoT,9.0,Python,Hybrid,2.8,Data Engineer
+STU643,Rohit Chopra,ME,9.68,Java,98.0,Cyber Sec,3.0,Java,Remote,2.4,App Developer
+STU644,Isha Gupta,,5.46,Java,33.0,Data Science,3.0,Java,Hybrid,1.2,Data Analyst
+STU645,,EEE,9.6,AWS,54.0,Cyber Sec,8.0,JavaScript,Onsite,2.9,Data Analyst
+STU646,Divya Agarwal,ME,,AWS,,App Dev,7.0,R,Remote,2.7,Data Analyst
+STU647,Sneha Singh,AI DS,6.08 ,ML,75.0,Data Science,3.0,,Hybrid,,Cybersecurity Analyst
+STU648,Kunal Agarwal,EC,7.85,ML,85.0,Web Dev,8.0,Go,Remote,2.1,App Developer
+STU649,Riya Sharma,IT,10.34,,85.0,AI,4.0,R,Onsite,1.6,Cybersecurity Analyst
+STU650,Manav Patel,AI DS,9.03,Python,78.0,Web Dev,7.0,JavaScript,Hybrid,1.2,System Admin
+STU651,Kunal Nair,Civil,8.45,Java,,Web Dev,8.0,Python,,2.9,Cloud Engineer
+STU652,Manav Chopra,IT,10.15,AWS,,AI,9.0,Python,Remote,0.1,
+STU653,Mehul Kumar,EEE,6.74,AWS,97.0,Cyber Sec,9.0,,Remote,2.2,IoT Engineer
+STU654,Harsh Mehta,C.S.E,8.83,Python,83.0,App Dev,9.0,Go,Onsite,1.3,Cybersecurity Analyst
+STU655,Aarav Nair,AI DS,6.89,Cyber Sec,76.0,Web Dev,6.0,Go,Onsite,0.9,System Admin
+STU656,Isha Das,EC,5.77,Data Science,42.0,IoT,4.0,C,Onsite,1.5,Data Analyst
+STU657,Kunal Kumar,EC,10.35,,48.0,IoT,4.0,Python,Remote,1.9,Web Devloper
+STU658,Tanya Chopra,EC,9.55,Java,32.0,Data Science,3.0,Python,Remote,0.4,System Admin
+STU659,Isha Chopra,IT,5.35,None,80.0,IoT,4.0,C,Onsite,1.6,App Developer
+STU660,Riya Reddy,C.S.E,6.86,None,56.0,App Dev,4.0,C++,Onsite,0.1,Software Tester
+STU661,,EEE,9.15,Java,49.0,IoT,8.0,Go,Onsite,,IoT Engineer
+STU662,Sneha Kumar,EC,7.81,Python,,Data Science,3.0,C,Onsite,0.9,System Admin
+STU663,,EC,10.26,,45.0,,9.0,C++,,2.4,System Admin
+STU664,Krish Chopra,EEE,7.36,AWS,43.0,Cyber Sec,5.0,C++,Hybrid,1.4,Web Devloper
+STU665,Tanya Sharma,ME,,None,56.0,App Dev,7.0,Go,Onsite,1.1,Data Analyst
+STU666,Tanya Agarwal,AI DS,7.26,AWS,49.0,Data Science,7.0,R,Remote,,Data Engineer
+STU667,Riya Gupta,IT,9.96,Cyber Sec,72.0,App Dev,8.0,R,Hybrid,2.1,App Developer
+STU668,Mehul Das,ME,7.03,None,96.0,Cyber Sec,3.0,Java,Hybrid,2.7,Data Analyst
+STU669,Tanya Agarwal,IT,6.45,Data Science,50.0,IoT,4.0,R,Hybrid,2.0,Data Engineer
+,Priya Agarwal,IT,9.39,Java,47.0,Cloud,7.0,C,Hybrid,0.9,ML Engineer
+STU671,Isha Agarwal,Civil,9.09,None,51.0,Data Science,8.0,Python,Onsite,1.1,Cloud Engineer
+STU672,Sneha Singh,EEE,8.55,Python,93.0,Cloud,6.0,C,Onsite,0.6,IoT Engineer
+STU673,,C.S.E,9.66,,51.0,Cyber Sec,4.0,C++,Remote,1.8,Software Tester
+STU674,Kunal Agarwal,C.S.E,8.31,,72.0,,9.0,JavaScript,Onsite,1.0,Web Devloper
+STU675,Priya Kumar,ME,9.66,AWS,52.0,Web Dev,4.0,Python,Remote,2.3,ML Engineer
+STU676,Ananya Nair,ME,7.32,,89.0,Web Dev,9.0,Java,Onsite,2.0,Data Engineer
+STU677,Mehul Nair,,8.51,Data Science,74.0,IoT,4.0,C,Onsite,2.4,IoT Engineer
+STU678,Priya Sharma,EEE,7.34,ML,39.0,Web Dev,5.0,JavaScript,Hybrid,0.4,Data Engineer
+STU679,Rohit Nair,ME,8.56,None,45.0,AI,7.0,C,Onsite,1.7,Software Tester
+STU680,Rohit Verma,Civil,9.2,AWS,74.0,Cyber Sec,3.0,Go,Remote,1.6,System Admin
+STU681,Harsh Chopra,C.S.E,5.98,Python,83.0,Cyber Sec,6.0,C,Remote,2.7,Software Tester
+STU682,Ananya Verma,,7.72,Data Science,91.0,Cyber Sec,4.0,C,Hybrid,2.9,Data Engineer
+STU683,Rohit Reddy,ME,10.25,Cyber Sec,86.0,App Dev,4.0,Java,Hybrid,1.4,IoT Engineer
+STU684,Aditya Singh,EC,5.26,Java,43.0,App Dev,5.0,Go,Onsite,1.2,Data Engineer
+STU685,Isha Sharma,Civil,10.23,Python,87.0,Cyber Sec,8.0,C++,Remote,1.9,IoT Engineer
+STU686,Aditya Nair,,8.77,Cyber Sec,64.0,IoT,9.0,C++,Hybrid,0.0,ML Engineer
+STU687,Rohit Chopra,,5.64,,56.0,App Dev,4.0,,Remote,2.2,Cybersecurity Analyst
+STU688,Aditya Patel,ME,9.04,AWS,58.0,,4.0,,,1.4,Web Devloper
+STU689,Aarav Reddy,ME,9.24,None,83.0,Cyber Sec,5.0,Python,Onsite,2.3,Data Analyst
+STU690,Harsh Kumar,IT,10.19,AWS,96.0,Data Science,3.0,Python,Remote,1.5,IoT Engineer
+STU691,Manav Chopra,ME,7.9,Java,48.0,AI,3.0,Java,Hybrid,0.6,Cybersecurity Analyst
+STU692,Kunal Chopra,EEE,8.75,Java,41.0,Cloud,3.0,R,Onsite,2.2,Web Devloper
+STU693,Rohit Agarwal,Civil,10.27,AWS,75.0,Cloud,6.0,C,Onsite,2.6,Data Analyst
+STU694,Aditya Mehta,ME,6.17,Python,85.0,,8.0,R,Onsite,0.5,IoT Engineer
+STU695,Krish Reddy,ME,5.62,Java,56.0,IoT,7.0,R,Hybrid,1.4,Data Analyst
+STU696,Krish Singh,IT,8.83,ML,58.0,Web Dev,8.0,R,Hybrid,0.5,Data Engineer
+STU697,Harsh Mehta,IT,5.59,,48.0,App Dev,3.0,C,Hybrid,1.6,
+STU698,Sneha Agarwal,EC,7.32,AWS,44.0,IoT,8.0,Java,Onsite,2.7,IoT Engineer
+STU699,Sanya Das,EEE,9.77,AWS,37.0,IoT,6.0,C++,Onsite,0.6,Cloud Engineer
+STU700,Ananya Reddy,EEE,8.6,Python,93.0,Cloud,3.0,JavaScript,Hybrid,1.0,System Admin
+STU701,Isha Kumar,Civil,9.93,Data Science,41.0,App Dev,4.0,Go,,1.4,Software Tester
+STU702,Rohit Singh,EC,10.03,AWS,81.0,AI,6.0,Go,,2.2,Data Analyst
+STU703,Sanya Das,AI DS,9.34,Cyber Sec,46.0,Web Dev,7.0,JavaScript,Onsite,1.5,Cybersecurity Analyst
+STU704,Rohit Sharma,Civil,7.34,ML,85.0,App Dev,4.0,R,,0.3,Cybersecurity Analyst
+STU705,Aditya Chopra,AI DS,8.91,Java,46.0,Web Dev,4.0,C,Remote,2.9,Cybersecurity Analyst
+STU706,Ananya Nair,EC,6.48,None,98.0,Cloud,5.0,Python,Hybrid,1.0,Data Engineer
+STU707,Priya Chopra,IT,8.76,,48.0,App Dev,4.0,C,Remote,2.5,ML Engineer
+STU708,Krish Kumar,IT,6.49,AWS,99.0,AI,6.0,Python,Remote,0.0,Data Analyst
+STU709,Isha Patel,Civil,5.51,Java,81.0,Data Science,7.0,C,Onsite,0.2,Cloud Engineer
+STU710,Ananya Gupta,EEE,10.3,None,73.0,Cyber Sec,6.0,R,Onsite,0.9,System Admin
+STU711,Isha Kumar,Civil,6.91,Cyber Sec,94.0,App Dev,,JavaScript,Remote,1.4,App Developer
+STU712,Manav Chopra,EEE,9.73 ,None,36.0,Data Science,4.0,C,Onsite,2.2,App Developer
+STU713,Tanya Gupta,C.S.E,8.14,None,91.0,Cloud,4.0,C,Remote,2.6,Software Tester
+STU714,Riya Nair,Civil,6.87 ,None,40.0,App Dev,5.0,R,Onsite,0.8,ML Engineer
+STU715,Aditya Reddy,,9.5,None,46.0,Cloud,9.0,Java,Remote,1.0,System Admin
+STU716,Kunal Kumar,EC,9.75,ML,79.0,IoT,3.0,Python,Hybrid,1.5,Cybersecurity Analyst
+STU717,Sneha Das,,5.51,,66.0,Cloud,6.0,JavaScript,Remote,0.9,IoT Engineer
+STU718,Rohit Nair,,,Python,67.0,Cloud,4.0,C++,Onsite,2.4,Data Engineer
+STU719,Manav Mehta,EEE,6.53,Cyber Sec,42.0,Cyber Sec,6.0,R,Onsite,0.8,Data Analyst
+STU720,Manav Nair,C.S.E,5.61,,86.0,App Dev,8.0,R,Remote,1.5,Cloud Engineer
+STU721,Riya Agarwal,EEE,8.05,ML,40.0,,9.0,JavaScript,Onsite,0.8,Web Devloper
+STU722,Isha Sharma,Civil,5.63,,63.0,IoT,6.0,Java,Hybrid,0.2,System Admin
+STU723,Kunal Gupta,EEE,6.27,Cyber Sec,72.0,AI,7.0,Go,Remote,2.8,System Admin
+STU724,Priya Sharma,C.S.E,9.05,,91.0,Cyber Sec,9.0,,,,Data Analyst
+STU725,Rohit Reddy,Civil,9.93,,74.0,Cloud,5.0,Java,Remote,1.0,Data Engineer
+STU726,Sanya Reddy,AI DS,6.45,Cyber Sec,66.0,AI,7.0,R,Remote,0.1,Software Tester
+STU727,Tanya Mehta,ME,6.16,Java,59.0,IoT,7.0,Go,,0.3,Cybersecurity Analyst
+,Riya Chopra,EC,9.46,AWS,50.0,Cloud,6.0,Go,Onsite,1.0,IoT Engineer
+STU729,Krish Reddy,Civil,9.79,None,30.0,App Dev,3.0,R,Remote,1.4,Web Devloper
+STU730,Divya Reddy,EEE,5.25,None,68.0,IoT,9.0,C++,Onsite,0.0,Cloud Engineer
+STU731,Ananya Mehta,,7.03,Cyber Sec,39.0,IoT,4.0,C,Remote,2.6,Cybersecurity Analyst
+STU732,Manav Verma,EC,5.62,Java,31.0,Data Science,,,Remote,1.0,ML Engineer
+STU733,Mehul Nair,C.S.E,8.82,Java,46.0,AI,,C++,Hybrid,2.5,System Admin
+STU734,Tanya Verma,EEE,7.3,None,73.0,App Dev,5.0,R,Remote,0.7,App Developer
+STU735,Aarav Nair,ME,7.75,Cyber Sec,68.0,Data Science,3.0,R,Onsite,1.4,App Developer
+STU736,Aarav Chopra,AI DS,7.89,AWS,53.0,AI,5.0,C,Onsite,2.4,App Developer
+STU737,Kunal Verma,Civil,9.88,Data Science,89.0,Web Dev,6.0,Python,Hybrid,0.6,Cloud Engineer
+,Sanya Mehta,Civil,7.25,,,App Dev,4.0,Python,Hybrid,1.1,Cloud Engineer
+STU739,Isha Mehta,EEE,5.76,AWS,92.0,Web Dev,7.0,R,Onsite,0.3,ML Engineer
+STU740,Riya Sharma,AI DS,5.95,Data Science,35.0,App Dev,4.0,C++,Remote,1.4,Data Engineer
+STU741,Aarav Sharma,ME,10.02,Python,45.0,AI,6.0,C++,Hybrid,0.0,App Developer
+STU742,Ananya Gupta,EEE,8.77,,72.0,Cyber Sec,5.0,C++,Hybrid,1.3,Web Devloper
+STU743,Riya Agarwal,C.S.E,5.03,Cyber Sec,42.0,IoT,9.0,Go,Hybrid,2.4,Cloud Engineer
+STU744,Divya Nair,ME,6.03,AWS,39.0,Cloud,8.0,R,Remote,0.5,System Admin
+STU745,Harsh Das,IT,,AWS,45.0,Cyber Sec,3.0,Java,Onsite,0.4,Software Tester
+STU746,Rohit Mehta,Civil,10.1,Python,,AI,4.0,C,Hybrid,3.0,
+STU747,,Civil,,Data Science,76.0,Web Dev,5.0,C++,Hybrid,0.5,Web Devloper
+STU748,,C.S.E,6.11,Cyber Sec,37.0,Cloud,3.0,JavaScript,Hybrid,2.0,App Developer
+STU749,Kunal Singh,EEE,5.63,AWS,58.0,Cyber Sec,5.0,Java,Onsite,2.9,Software Tester
+STU750,Isha Sharma,C.S.E,8.36,None,58.0,IoT,4.0,R,Remote,1.4,Data Engineer
+STU507,Kunal Patel,EEE,8.05,ML,47.0,App Dev,9.0,C,Hybrid,2.9,Data Engineer
+STU358,Mehul Patel,EC,8.14,Python,94.0,Web Dev,7.0,JavaScript,Onsite,0.1,Cybersecurity Analyst
+STU134,Mehul Sharma,C.S.E,9.79,ML,72.0,Data Science,5.0,Python,Onsite,1.4,Data Engineer
+STU251,Kunal Verma,ME,9.11,None,64.0,Web Dev,3.0,C++,Onsite,0.9,Web Devloper
+STU300,Divya Mehta,EC,9.34,,91.0,Web Dev,7.0,Go,Hybrid,1.0,System Admin
+STU681,Harsh Chopra,C.S.E,5.98,Python,83.0,Cyber Sec,6.0,C,Remote,2.7,Software Tester
+STU337,Aditya Agarwal,AI DS,6.8,,92.0,App Dev,8.0,JavaScript,Onsite,1.0,System Admin
+STU156,Harsh Chopra,C.S.E,8.98,Python,49.0,Web Dev,,JavaScript,Hybrid,1.3,Cybersecurity Analyst
+STU529,Harsh Sharma,IT,10.05,Data Science,52.0,Web Dev,8.0,Java,Remote,0.7,Software Tester
+STU737,Kunal Verma,Civil,9.88,Data Science,89.0,Web Dev,6.0,Python,Hybrid,0.6,Cloud Engineer
+STU098,Krish Agarwal,ME,8.37,Data Science,34.0,,5.0,Java,Remote,2.5,Data Engineer
+STU307,Rohit Sharma,ME,5.9,Data Science,98.0,Data Science,4.0,C,Onsite,2.0,Cloud Engineer
+STU282,Isha Agarwal,EEE,6.6,None,37.0,IoT,7.0,C,Hybrid,2.1,Cybersecurity Analyst
+STU747,,Civil,,Data Science,76.0,Web Dev,5.0,C++,Hybrid,0.5,Web Devloper
+STU212,Aarav Agarwal,,,Java,46.0,Web Dev,3.0,C++,Onsite,0.9,Cybersecurity Analyst
+STU267,Riya Das,EC,8.37,Java,30.0,IoT,7.0,Java,Remote,0.3,Cloud Engineer
+STU040,Rohit Agarwal,EEE,5.23,Python,57.0,AI,7.0,,Remote,2.1,Web Devloper
+STU248,Tanya Sharma,Civil,8.17,ML,74.0,IoT,5.0,JavaScript,Hybrid,1.5,
+STU363,Sanya Mehta,C.S.E,5.3,ML,53.0,IoT,3.0,Java,Hybrid,0.6,Cloud Engineer
+STU539,Aditya Chopra,EEE,,Data Science,,Data Science,9.0,R,Remote,1.0,IoT Engineer
+STU458,Divya Gupta,IT,6.81,Java,82.0,Cloud,9.0,C,Hybrid,1.0,System Admin
+STU500,Ananya Das,EEE,9.1,Cyber Sec,47.0,Data Science,7.0,R,Onsite,2.4,Data Engineer
+STU423,,AI DS,8.63,Data Science,82.0,,6.0,R,Onsite,2.3,System Admin
+,Aarav Chopra,EEE,7.71,Java,41.0,AI,7.0,C++,,0.4,Cloud Engineer
+STU067,Sanya Verma,EC,6.77,,72.0,IoT,7.0,Java,Remote,0.3,IoT Engineer

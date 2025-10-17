@@ -1,0 +1,21 @@
+Student_ID,Name,Branch,CGPA,Aptitude_Score,Certifications,Project_Tech,Soft_Skills_Rating,Favorite_Language,Preferred_Work_Mode,Experience
+STU001,Student_1,MECH,8.27,57,AWS,Web Dev,7,C++,Remote,1
+STU002,Student_2,AI&DS,8.49,94,Data Analytics,CyberSec,7,C++,Remote,3
+STU003,Student_3,CIVIL,8.03,95,Data Analytics,CyberSec,9,Java,Hybrid,2
+STU004,Student_4,CIVIL,9.6,94,AWS,ML,7,C,Office,3
+STU005,Student_5,CSE,6.63,62,AWS,IoT,6,C,Remote,3
+STU006,Student_6,CSE,8.04,75,Azure,Cloud,8,Java,Hybrid,1
+STU007,Student_7,ECE,8.48,73,Ethical Hacking,Web Dev,5,C++,Remote,1
+STU008,Student_8,AI&DS,6.23,86,Python,CyberSec,5,C++,Remote,3
+STU009,Student_9,AI&DS,9.28,73,AWS,IoT,8,JavaScript,Office,2
+STU010,Student_10,AI&DS,8.73,61,Azure,CyberSec,6,C++,Remote,0
+STU011,Student_11,AI&DS,9.38,93,AWS,CyberSec,8,Java,Remote,0
+STU012,Student_12,ECE,9.29,83,Ethical Hacking,ML,8,Java,Remote,0
+STU013,Student_13,MECH,8.81,79,AWS,Web Dev,7,C,Office,3
+STU014,Student_14,CIVIL,9.06,76,Python,IoT,10,Python,Office,2
+STU015,Student_15,CIVIL,7.61,91,Data Analytics,Cloud,10,JavaScript,Office,3
+STU016,Student_16,CSE,6.64,58,Data Analytics,Web Dev,8,C,Hybrid,3
+STU017,Student_17,CIVIL,8.91,90,Networking,Cloud,6,Python,Office,2
+STU018,Student_18,AI&DS,8.57,65,Data Analytics,Cloud,8,Java,Office,3
+STU019,Student_19,ECE,6.5,83,Ethical Hacking,CyberSec,9,Python,Remote,0
+STU020,Student_20,CIVIL,9.1,77,Data Analytics,IoT,9,JavaScript,Hybrid,1
